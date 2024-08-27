@@ -4227,22 +4227,22 @@ https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yDu32Wsa3T7E1q2L44Hl2lzrBrKiUxVYXL9m8QinTUJ7Km8bQDhx1A9_GvuvtiPtKWWbk6yOvi8=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", Vocería Presidencial
 https://www.youtube.com/channel/UCRyGJcJYqqiCByEaUhDLMsw/live
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SYF5BHG2NEezqYYqnZNSmQR-Fc4DuguOJ1-qW47XDeogzBJk-bo4OnnDJQWQaK-4d7jHhpHMv3w=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
+#EXTINF:-1  group-title="NOTICIAS NACIONALES", Ahora Play
 https://www.youtube.com/channel/UCCSbOixo2xpZc_oToqeq2jQ/live
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
 https://www.youtube.com/channel/UCjMGMWnToRcQRqmyVB4R2xQ/live
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", Perfil - Eventos
 https://www.youtube.com/channel/UCl6L85YuyK4rVn5NI--dHUw/live
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AtGjuO-bEPxnvAcBcrguBz2Dvg0fm7tmk3M92HQpjQdXRxI55XTX1XX_p_OF-Sme-d1J0LP8tA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Infobae - Eventos
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", Infobae - Eventos
 https://www.youtube.com/channel/UCvsU0EGXN7Su7MfNqcTGNHg/live
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll92OqxwOp3LzbIrIYDBO3K5WQK6q7xfJ3DCKrxQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
+#EXTINF:-1 group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
 https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
@@ -4530,33 +4530,8 @@ https://www.youtube.com/channel/UCveq2vfMg1tgeVjvRPsOLVg/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lrQOv1GBOI4lcjMNjGRJPqgaNodo4cOkOiPh7_QAnDfw=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Portal 5900
 https://www.youtube.com/channel/UCl5P2zJoH1gBdf38AiYALKA/live
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Tierra del Fuego Live
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", Tierra del Fuego Live
 https://www.youtube.com/channel/UC6NTD1HmdaZMbe9K5qADOvw/live
-
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/KJ32sS0KC836zytOmZbWfG7wgR1epfcK8zp3nZB5FyQkMTZxK7exBOLpMC9U9yBN3UZEa24O", Cuarteteando
-https://ythls-v3.onrender.com/channel/UC6786bpkxmtqw2YgicH4g3A.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/_0N3p1cnIITphcj79c2vAQSbelcaw6kxncZafd1h53GMvi8g_3hgeM9OQUVn8I_fk-ly41yR", Chingón | En Vivo
-https://ythls-v3.onrender.com/channel/UCwEs6zaXoRw-FZksxnWkZgQ.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mY026VQiARzpzxsJp3xUejrQm0tODkWqGySpqKfq3D6xQ", Aire de Santa Fe
-https://ythls-v3.onrender.com/channel/UCr7TYJVXSe3_rVILo-F8Xhg.m3u8?playlist=index
-
-#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mi1RkS9WALMF-7Lo0OjtWuOkO_iwiZsYmykvoSLFPrHGp22zZ_zD2yuLZ-YfpWN7owYUwjrTlw", Canal E
-https://ythls-v3.onrender.com/channel/UCW53kA_WXKWVxJbpHrTOBfw.m3u8?playlist=index
-
-
-
-
-
- 
-
-
-
-
-
-
 
 
 

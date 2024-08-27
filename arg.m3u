@@ -34,7 +34,7 @@ http://190.11.130.46/mnp/fox_sport3/output.mpd
 http://190.11.130.46/mnp/dxtv/output.mpd
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
-http://168.197.196.98:9981/stream/channelid/1620164907?profile=pass
+http://186.148.195.206:8000/play/a04u/index.m3u8
 
 
 

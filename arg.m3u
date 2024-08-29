@@ -2734,8 +2734,6 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MT_a6-84V3kFflxL1BWMBJs0YyQTYfSbN8h-Y_7uX-ZmFeIwCdOU2ZAITvjDhvLwX_Y=w240-h480-rw" group-title="URUGUAY", Canal ALMA
-https://live.cloudhostservers.com:3486/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
 https://tvlive.servicioselbachi.com:3686/hybrid/play.m3u8
@@ -2747,13 +2745,10 @@ https://ythls-v3.onrender.com/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8
 https://stream.oursnetworktv.com/latin/estetvo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/s1152/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", TVF FLORIDA UY
-https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
+https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRObJfLKxicub3tNXHxM-ZGga-nciRJ_6naYKr4en9QL8E7v81rxBPioStjE_nR3RQpYcw&usqp=CAU" group-title="URUGUAY", TELE 8 MERCEDES
-http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="URUGUAY", Latino Kids TV 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
@@ -2776,8 +2771,7 @@ https://ythls-v3.onrender.com/channel/UCu-U3hwhBTR3lzyZnPUL2Hg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNYdZqfKDzA2ese55l16FfpZu27PISekOAaIMMR3w=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", 970Universal
 https://ythls-v3.onrender.com/channel/UCYfmi4AKY-kMDkt7BtvOKxg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mL9Tym0LtTSNbedpC8jIoClRkqmqiavNRowDl8yzCfeq8=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", DelSol 99.5 FM
-https://ythls-v3.onrender.com/channel/UCwxfiP2WBmLEblsrGgwWNMA.m3u8
+
 
 
 

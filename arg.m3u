@@ -312,18 +312,6 @@ http://186.148.195.206:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1700
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS 
-https://pubads.g.doubleclick.net/ssai/event/qrZ47XNwQ6--4BaOTYV12g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS 2 
-https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS 3 
-https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS 4 
-https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="DEPORTIVOS", Chilevision Deportes
 https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
@@ -340,7 +328,7 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/992
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTIVOS", ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnskf/espn1/playlist.m3u8
+http://181.78.71.5:4890/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
 http://181.78.71.5:4890/play/a03k/index.m3u8

@@ -2513,41 +2513,14 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRbifiUexivtDzxsqtsC61C7uhIlhpjvU7m5P9bS3AG_zGAl39526E-wB6Ykpx48SjHl89CEGMEPwrxJpGUXeZ0A7L_Mhtzsm-XoMMgSl1P-Yr1tM_C6nn9MD2194Ec3mfB_Wx_VmiSXU4fqmMb43meSb4iO59L9S1tkwzC6Psj1HJdi2avW1pf9s458/s200/Logo-letras-3d.png" group-title="INFANTIL", Retro Magico 
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="INFANTIL" , Clan
-https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="INFANTIL" , Pitufo TV
-https://jmp2.uk/SamsungTVPlus/ESBD130000205.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20220914T041141SQUARE.png_20220914041142.png" group-title="INFANTIL" , iCarly
-https://jmp2.uk/SamsungTVPlus/ESBA3300028OE.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20231101T032821SQUARE.png_20231101032821.png" group-title="INFANTIL" , Heidi & Maya
-https://jmp2.uk/SamsungTVPlus/ESBD3200002V5.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="INFANTIL" , Caillou
-https://jmp2.uk/SamsungTVPlus/ESBA3300020W5.m3u8
+https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20221026T004514SQUARE.png_20221026004514.png" group-title="INFANTIL" , Pluto TV Animakids
-https://jmp2.uk/SamsungTVPlus/ESAJ3800009VJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" group-title="INFANTIL" , Rabbids : La invasion
-https://jmp2.uk/SamsungTVPlus/ESBD2300003S5.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" group-title="INFANTIL" , Bob Esponja
-https://jmp2.uk/SamsungTVPlus/ESBA33000262Z.m3u8
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2aea6bffc400076bb4e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" group-title="INFANTIL" , Pluto TV Kids
-https://jmp2.uk/SamsungTVPlus/ESAJ38000046O.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" group-title="INFANTIL" , Rugrats
-https://jmp2.uk/SamsungTVPlus/ESBA33000324U.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230712T021344SQUARE.png_20230712021345.png" group-title="INFANTIL" , Pocoyó
-https://jmp2.uk/SamsungTVPlus/ESBC3900004ED.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="INFANTIL" , duckTV
-https://jmp2.uk/SamsungTVPlus/ESBC4700001GR.m3u8
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0yk7_PeURJ-mtnHG9jPaoMAjh3zlgwOxt0yCdXNwDsCT0h9PpEG3PBaYhLYaUIW63Ds&usqp=CAU" group-title="ENTRETENIMIENTO", Canal 74 TV 
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8

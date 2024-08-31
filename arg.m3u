@@ -2513,6 +2513,13 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRbifiUexivtDzxsqtsC61C7uhIlhpjvU7m5P9bS3AG_zGAl39526E-wB6Ykpx48SjHl89CEGMEPwrxJpGUXeZ0A7L_Mhtzsm-XoMMgSl1P-Yr1tM_C6nn9MD2194Ec3mfB_Wx_VmiSXU4fqmMb43meSb4iO59L9S1tkwzC6Psj1HJdi2avW1pf9s458/s200/Logo-letras-3d.png" group-title="INFANTIL", Retro Magico 
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="INFANTIL" , Pitufo TV
+https://stream.ads.ottera.tv/cl/240831cr9kj8sq8bd94uofptbg/1280x720_3071200_0_f.m3u8?i=475_6611
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/kids-tv-espanol_thumbh_20230426_174359.jpg" group-title="INFANTIL" , KIDS TV ESP
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/017ecef7-4974-403e-8bed-b39eb671fabf/0.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="INFANTIL" , Caillou
 https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 

@@ -2607,7 +2607,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="novelas-turcas" tvg-name="novelas-turcas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg" group-title="ENTRETENIMIENTO" , Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="canela-telenovelas" tvg-logo="" group-title="En Vivo" , Canela Telenovelas
+#EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="canela-telenovelas" tvg-logo="" group-title="ENTRETENIMIENTO" , Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="novelas-inolvidables" tvg-name="novelas-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg" group-title="ENTRETENIMIENTO" , Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
@@ -2635,12 +2635,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 #EXTINF:-1 tvg-id="todo-cine" tvg-name="todo-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg" group-title="CINE" , Todo Cine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-id="cine-real" tvg-name="cine-real" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cinereal_cover_fastchannel_1920x1080.jpg" group-title="CINE" , Cine Real
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4600
-#EXTINF:-1 tvg-id="/estu-cine" tvg-name="/estu-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tucine_cover_fastchannel_1920x1080_0.jpg" group-title="CINE" , Tu Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
-#EXTINF:-1 tvg-id="top-cine-0" tvg-name="top-cine-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/topcine_cover_fastchannel_1920x1080_0.jpg" group-title="CINE" , Top Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytopcinelatam-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="flou-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg" group-title="CINE" , Flou Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="flou-caribeno" tvg-name="flou-caribeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg" group-title="MUSICA" , FLOU Caribeño

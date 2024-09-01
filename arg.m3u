@@ -774,6 +774,9 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_400x400.jpg" group-title="CURIOSIDAD", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="MUSICA", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
 
 
 

@@ -2455,31 +2455,31 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sabermas_1080x1080_02092024.jpg" group-title="CURIOSIDAD", FreeTv SABER MAS
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_banda_1080x1080_02092024.jpg" group-title="MUSICA", FreeTv BANDA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa114420b-6a40-4d05-af07-b95c95525420%2FFreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="MUSICA", FreeTv BANDA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa114420b-6a40-4d05-af07-b95c95525420%2FFreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="MUSICA", FreeTv HITS
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6018913ea15130002b284191.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="CINE", FreeTv ESTELAR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608b7095a09205002da4f293.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="CINE", FreeTv TERROR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="CINE", FreeTv HORROR
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="CINE", FreeTv DRAMA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60240f57676235002df19f47.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" group-title="CINE", FreeTv SUREÑO
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/1df0767f-74e8-44f4-9cf7-92d8d9204262/4.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="CINE", FreeTv FAMILIA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="CINE", FreeTv ACCION
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60240f58676235002df19f4b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="CINE", Grjngo
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D

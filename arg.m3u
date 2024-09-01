@@ -1093,9 +1093,6 @@ https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8
 #EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
 https://ythls-v3.onrender.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M14IwE4_GRnGI7a2vzEWC0O_-5LYsKyaRLrtZz_63APTwB0lgpfUVxy5Knj_3LBxHwXKlmNN=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0162
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZSwlhkQFkgeMpoK8iSsAkKeJ-2RovxiK0OrwA1FyRZ5iIm-PnXKIBZMtbCBR3kD281vKUvNRug=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
@@ -1104,7 +1101,6 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/resources/views/frontend/img/canal_iso_new.png" group-title="PCIA BS AS", UNMDP TV
 https://tvradiozap.eu/tools/dm.m3u8.php/x7kvvgi.m3u8
@@ -1747,7 +1743,7 @@ https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sevenmedia.com.ar/wp-content/uploads/2023/03/seven.png" group-title="LA RIOJA", SEVEN MEDIA
-https://stmvideo1.livecastv.com/lariojainforma/lariojainforma/playlist.m3u8
+https://stmv5.livecastv.com/seven/seven/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_1.jpg?itok=OgaVRqc7" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8  
@@ -1757,6 +1753,9 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmpucara917.com/uploads/logo/logo_5ccca1e3a8bcc.png" group-title="LA RIOJA", FM PUCARA 91.7 CHILECITO
 https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8   
+
+#EXTINF:-1 tvg-logo="https://radiolibertadlarioja.com.ar/wp-content/uploads/2023/05/cropped-LOGO-RADIO-LIBERTAD-NUEVO1-transp.png" group-title="LA RIOJA", RADIO LIBERTAD 92.1 LA RIOJA
+https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
 
 
 

@@ -827,9 +827,6 @@ https://panel.dattalive.com/8118/8118/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2023/07/logo-set-ipersonica-tv-color.png?w=1024" group-title="AMBA", IPERSONICA
 https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="AMBA", LA PODEROSA TV
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1612_Zapp_Uno.png" group-title="AMBA", ZAPP UNO
 https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8
 
@@ -874,6 +871,9 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="AMBA", LA PODEROSA TV
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="AMBA", 24-7 TV
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8

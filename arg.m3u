@@ -2341,9 +2341,9 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 https://panel.host-live.com:19360/81500/81500.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PALOMAR TV
-https://stream.trixserver.com:3249/live/uv038live.m3u8   
+https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ntvcanal7.ddns.net/Norte%20TV%20%E2%80%93%20Canal%207%20%E2%80%93%20Tucum%C3%A1n_files/encabezado-logo-1.png" group-title="TUCUMAN", 7 NORTE TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", 7 NORTE TV
 https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="TUCUMAN", CANAL 5 TUCUMAN

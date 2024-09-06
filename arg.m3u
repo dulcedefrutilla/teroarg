@@ -2002,7 +2002,7 @@ https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
 https://videostream.shockmedia.com.ar:19360/milleniumtv/milleniumtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uBHyM2CWWRmlkojyatNovJFluIyXhEP4ekYcU85-oJcoNm-1sqHqNy-SvxexeZ0_c70i3X8mT0o=s176-c-k-c0x00ffffff-no-rj" group-title="SALTA", CANAL 10 NORTEVISION
-http://nortevision.dyndns.org:8870/0.m3u8
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZuE4-9awk47oyhUvqzjgtKdGEKKkMYW7UDrzvM=s176-c-k-c0x00ffffff-no-rj" group-title="SALTA", MULTIVISION SALTA
 https://panel.host-live.com/825000/825000/playlist.m3u8

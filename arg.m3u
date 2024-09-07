@@ -1850,8 +1850,8 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.misionesonline.news/wp-content/uploads/2022/12/logomol-1-4-2.png" group-title="MISIONES", MISIONES ONLINE
 https://tvradiozap.eu/tools/dm.m3u8.php/x7zlqfx.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/teleposadas.jpg?itok=S7VhxGDT" group-title="MISIONES", TELEPOSADAS
-https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
+#EXTINF:-1 tvg-logo="blob:https://web.telegram.org/6448c8a5-5e3f-4c89-929a-29a8068dd1e3" group-title="MISIONES", TELE N
+https://glb.bozztv.com/glb/ssh101/telentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://oberainside.com.ar/wp-content/uploads/2023/01/Identidad.png" group-title="MISIONES", OBERA INSIDE
 https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8

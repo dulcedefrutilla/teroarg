@@ -572,8 +572,8 @@ http://38.43.151.206:8000/play/a06v/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Carajo
+https://ythls-v3.onrender.com/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104

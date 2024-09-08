@@ -572,8 +572,6 @@ http://38.43.151.206:8000/play/a06v/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Carajo
-https://ythls-v3.onrender.com/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
@@ -587,17 +585,20 @@ https://ythls-v3.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nqhez5E1j4YzrCvzTAAB6z_KDFFZznqWv0x-vfY2gsXdY=s900-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", BLENDER
 https://ythls-v3.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dbzzlClEIe6IgvcrsaWVDef2daRmp-6sWuRzWxMgtPAmxJJRzbaGrKU_PlMBmNzZ0alNoMax7Q=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Carajo
+https://ythls-v3.onrender.com/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6WAUT8ntjLXm2jr9xW5HNePAYKlTO_IrLXAC90Nn7iKYnQxr5jQ_LJUMHf--iC9AqsDQrHK7dA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", República Z
 https://ythls-v3.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
+https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RYYNLGLDzXj7S4jbZ04Jj-5CMUWCPElZXAD2auF5E7663jkng-AQbU2N5j40SHFyZxz3nikDyJQ=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
 https://ythls-v3.onrender.com/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jdYIssLgCs53GcfKQMr4WPBjRp01-bG7DOCFd7kQEyojHRo1G2s5OUKQuTQHA4ua65SMl366FWA=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
 https://ythls-v3.onrender.com/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
-https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BGIQ0u-6bndxhdtmvjI4xsUtH_Lqh4zKnYsO9QJESkSKurPkPxERVf6pkZxomqFBsoau6RMU-ks=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", eltrece YT STREAM
 https://ythls-v3.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8

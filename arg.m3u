@@ -1527,8 +1527,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.13maxtv.com/wp-content/uploads/2023/08/13-max-Logo-2024.svg" group-title="CORRIENTES", 13 MAX CORRIENTES
 https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
-https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="CORRIENTES", CTV CORRIENTES
+https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Xsx2hTl33BhUJu40H3WjQhMuQK3r2HczS0brsgN1I28FwrNWq4LdHo626BS9_Dp_3SBqakYSMg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
@@ -1542,11 +1542,11 @@ https://videohd.live:19360/8018/8018.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Chamame-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="CORRIENTES", CHAMAME TV 
 https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="CORRIENTES", CTV CORRIENTES
-https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__ROPGPVBMhZtHuunBOtlXI_fT5kcm4H1whDW3rhxoHdIdW0bo4h3PFsUs9z8gv7CPqk&usqp=CAU" group-title="CORRIENTES", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8

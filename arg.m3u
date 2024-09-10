@@ -1805,7 +1805,7 @@ https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpk81Y563tGd7KYHWS9uodr3FuO_ikIRQPW6GW87XZyA=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", CANAL 10 SAN RAFAEL
-http://stream.shockmedia.com.ar:1935/canal10sanrafael/canal10sanrafael/playlist.m3u8
+https://tv.streamcasthd.com:3436/live/tvdiezlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://auroraargentina.com/css//programas/Aurora.png" group-title="MENDOZA", AURORA ARGENTINA 91.3 
 https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8

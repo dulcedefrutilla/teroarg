@@ -2658,7 +2658,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
-https://clientestv.bachistreaming.com:3721/live/canalmaslive.m3u8
+https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", CIUDAD TV
 https://ythls.armelin.one/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8

@@ -2190,11 +2190,11 @@ https://canal3tacural.site:4443/hls/canal3_hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.sol915.com.ar/wp-content/uploads/2021/12/logosolplay-x1-mobile-22.png" group-title="SANTA FE", SOL 91.5 SANTA FE    
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/lt9id.png?r=1" group-title="SANTA FE", LT9 AM 1150 SANTA FE
+https://inliveserver.com:1936/12060/12060/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1622530748866502659/0B1HWjGI_400x400.jpg" group-title="SANTA FE", RADIO RAFAELA DIGITAL
 https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EeNaVdp2r8Un-7awHXqcZdt75zAMVjDdTIYMELeYSdMjxZMnFLS2nokdYIOAFp-DclcL" group-title="SANTA FE", ZONA FM 101.7 - VILLA CONSTITUCION
-http://streamyes.alsolnet.com/fmzonatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiowox.com.ar/wp-content/uploads/2022/01/logo2.png" group-title="SANTA FE", WOX ROSARIO 88.3 FM
 https://tv.streamcasthd.com:3135/live/woxtvlive.m3u8
@@ -2223,8 +2223,7 @@ https://inliveserver.com:1936/17020/17020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/lt9id.png?r=1" group-title="SANTA FE", LT9 AM 1150 SANTA FE
-https://inliveserver.com:1936/12060/12060/playlist.m3u8
+
 
 
 

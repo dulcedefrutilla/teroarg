@@ -87,7 +87,7 @@ http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/554903
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA TV 
 https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/PSdCVquO_vZXDVdlCteix90MWLeLm-47kxUAf6Rk0j3j0yXxPekUt1MnYsdogZOq0t3VhWKuhw=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", TV PUBLICA  
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/PSdCVquO_vZXDVdlCteix90MWLeLm-47kxUAf6Rk0j3j0yXxPekUt1MnYsdogZOq0t3VhWKuhw=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", TVPUBLICA  
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE

@@ -973,13 +973,11 @@ https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/c
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
 https://panel.dattalive.com/8140/8140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIO-AMBA", RADIO JAI
+#EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIO-AMBA", 96.3 RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO-AMBA", BEATS  - 100.5 FM - TIGRE
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIO-AMBA", RADIO CLASS 91.9 FM SAENZ PEÑA
 https://tv.streamcasthd.com:3752/live/classfmtvlive.m3u8
@@ -997,10 +995,7 @@ https://s8.stweb.tv/unlam/video2/playlist.m3u8
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
-https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIONDALA.png" group-title="RADIO-AMBA", ONDA 1010 AM
-https://stream.trixserver.com:3743/live/uv008live.m3u8
+https://stmvideo1.livecastv.com/am1470/am1470/chunklist_w162601086.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
@@ -1031,12 +1026,6 @@ https://stream.trixserver.com:3733/live/uv005live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO-AMBA", RADIO ROCHA AM 1570 LA PLATA
 https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://nuevoshorizontesfm.com.ar/img/logo_1676402769.png" group-title="RADIO-AMBA", NUEVOS HORIZONTES 107.5 FM  
-https://inliveserver.com:1936/9000/9000/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="RADIO-AMBA", RADIO MAXIMO PAZ
-https://vivo.solumedia.com:19360/maximopaz/maximopaz.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTsiDJp0h8G6NfEKGVGlL0Y6Al9lbSRzZmQ&s" group-title="RADIO-AMBA", RADIO AMEP
 https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8

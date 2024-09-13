@@ -1430,6 +1430,9 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0211
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0212
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Alta Gracia 103.9
+https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EL9NeZb5ZS_dMekegkkZAcxqCl8ILxqUe2Hc_BoeNomYODo87W_aERaiHCeLCMLIjQ" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 

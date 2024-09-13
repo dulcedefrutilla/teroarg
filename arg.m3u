@@ -1063,7 +1063,7 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x7kvvgi.m3u8
 https://alternatv.ar/stream/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.eleco.com.ar/eleco-static/images/eco-tv.svg" group-title="PCIA BS AS", ECO TV TANDIL
-https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tS-MzAHw_400x400_0.jpg?itok=G0qNiGQD" group-title="PCIA BS AS", EPS TV BRAGADO
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8

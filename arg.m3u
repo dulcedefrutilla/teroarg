@@ -881,8 +881,6 @@ https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="AMBA", CANAL 3 ARGENTINA
 https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
 
@@ -891,8 +889,6 @@ https://stmv3.voxtvhd.com.br/unotvargentina/unotvargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/m1nvCCRDaN-1sMPFr57lW0cVaHLp-52YXDjhR1XktUiSNCj9W2QFXkXG6_F2Wtb1K5CgRc7_vA=s900-c-k-c0x00ffffff-no-rj" group-title="AMBA", ESPACIO FABRIK
 https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2024/03/63-TV-Fantastico.jpg" group-title="AMBA", CANAL 4 TV FANTASTICO
 https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/playlist.m3u8
@@ -959,20 +955,20 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pDSd701P-bEY545oalnnx-tSrr1Eu9t2Aw9BhFkoVMtdf3o-FrGMxzipJk5iaZx0HkOD8dRxzQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Con Vos 89.9
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Radio_rockpop.png/200px-Radio_rockpop.png" group-title="RADIO-AMBA", Rock And Pop
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Radio_rockpop.png/200px-Radio_rockpop.png" group-title="RADIO-AMBA", Rock And Pop 95.9
 https://ythls.armelin.one/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MPGVFdswIwc8Fq8FtxsOCvlj1nSVpIta5nGP4AzA81mZtK2HiYC8Cz_uMZZTVIocNJLhaZ76dbQ=s88-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Pop Radio 101.5
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
+https://g3.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" group-title="RADIO-AMBA", Pop Radio 101.5
 https://ythls.armelin.one/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/97sLhCzI_E89ZkqUzcJiB5qwaurcB0o7XYP979p34w82R2r_7ZtQZhxKAV8POPFq3IMDrxbaXBk=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  FM Vale 97.5 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JxwhSqarFrw-4kGSn-kd4-J7QLBOoyYJwcwmSBLFKCvQUzsG-XdXCO-ZQFuN-N0D7Sk=w600-h300-pc0xffffff-pd" group-title="RADIO-AMBA",  FM Vale 97.5 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
 
 #EXTINF:-1 tvg-logo="https://www.cronica.com.ar/fmq/images/logos/logo-fmq.svg" group-title="RADIO-AMBA", RADIO FMQ QUILMES
 https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cronica_fmq-100044_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROemK8-dSOkvxNct66KtjqZ7Rr1gM_5id3Jg&usqp=CAU" group-title="RADIO-AMBA", FM 90.1 TRUJUI
-https://stmvideo2.livecastv.com/fmtrujui/fmtrujui/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
 https://panel.dattalive.com/8140/8140/playlist.m3u8
@@ -983,8 +979,7 @@ https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO-AMBA", BEATS  - 100.5 FM - TIGRE
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
-https://g3.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIO-AMBA", RADIO CLASS 91.9 FM SAENZ PEÑA
 https://tv.streamcasthd.com:3752/live/classfmtvlive.m3u8

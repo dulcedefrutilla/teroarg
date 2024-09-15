@@ -2485,8 +2485,11 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="INFANTIL", Latino Kids TV 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png" group-title="ANIME - TEEN", Energeek Radio TV
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EG%20RADIO%20PFP.png?itok=7-s1Wt77" group-title="ANIME - TEEN", Energeek Radio TV
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/energeek.png?itok=l4Ay8MBh" group-title="ANIME - TEEN", Energeek 
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv.png" group-title="INFANTIL", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8

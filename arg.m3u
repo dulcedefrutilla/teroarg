@@ -2474,7 +2474,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000" group-title="INFANTIL" , EXTREMA KIDS
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o" group-title="INFANTIL" , DREIKO TV
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8

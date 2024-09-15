@@ -2500,9 +2500,6 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="4130" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="ANIME - TEEN" , Teen Vee
 https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png" group-title="ANIME - TEEN", 13 KIDS
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/800px-Logotipo_Color_2_NTV%28Chile%29.svg.png" group-title="INFANTIL", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
 

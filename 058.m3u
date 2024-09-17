@@ -88,6 +88,25 @@ http://190.11.130.46/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100848_dark_360w_270h.png" group-title="LATINO TV", Comedy Central
 http://190.11.130.46/mnp/comedy/output.mpd
 
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="LATINO TV", Discovery Channel
+http://190.11.130.46/mnp/discovery/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="LATINO TV", Discovery Science
+http://190.11.130.46/mnp/dsc_sci/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="LATINO TV", Discovery Home & Health
+http://190.11.130.46/mnp/disc_hh/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="LATINO TV", TLC 
+http://190.11.130.46/mnp/dsc_tlc/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="LATINO TV", HGTV 
+http://190.11.130.46/mnp/dsc_hgtv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="LATINO TV", Discovery Turbo
+http://190.11.130.46/mnp/dsc_turbo/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="LATINO TV", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
 
@@ -138,6 +157,12 @@ http://190.11.130.46/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="LATINO TV", Universal Channel
 http://190.11.130.46/mnp/universal/output.mpd
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11207/s11207_ll_h15_af.png" group-title="LATINO TV", USA
+http://190.11.130.46/mnp/syfy/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="LATINO TV", Warner Channel
+http://190.11.130.46/mnp/warner/output.mpd
 
 
 

@@ -131,6 +131,9 @@ http://190.11.130.46/mnp/garage/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="LATINO TV", Golf Channel
 http://190.11.130.46/mnp/golf/output.mpd
 
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="LATINO TV", History
+http://190.11.130.46/mnp/history/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="LATINO TV", Lifetime
 http://190.11.130.46/mnp/lifetime/output.mpd
 

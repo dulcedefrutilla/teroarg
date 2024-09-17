@@ -82,6 +82,9 @@ http://190.11.130.46/mnp/amc/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="LATINO TV", AXN
 http://190.11.130.46/mnp/axn/output.mpd
 
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="LATINO TV", CARTOON NETWORK HD
+http://190.11.130.46/mnp/cartoon/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="LATINO TV", Cinecanal
 http://190.11.130.46/mnp/cinecanal/output.mpd
 
@@ -109,6 +112,15 @@ http://190.11.130.46/mnp/dsc_hgtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="LATINO TV", Discovery Turbo
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="LATINO TV", ESPN HD
+http://190.11.130.46/mnp/espn/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="LATINO TV", ESPN 2 HD
+http://190.11.130.46/mnp/espn2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES", ESPN 3 HD
+http://190.11.130.46/mnp/espn3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="LATINO TV", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd

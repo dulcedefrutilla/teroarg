@@ -1633,8 +1633,7 @@ https://stream.arcast.live/silverchannel/silverchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISILCHA.png" group-title="JUJUY", RADIO TAHOS 107.3 FM
 https://panel.dattalive.com/8156/8156/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO
-https://vivo.solumedia.com:19360/tecnovision/tecnovision.m3u8
+
 
 
 
@@ -4104,11 +4103,8 @@ https://ythls.kekikakademi.org/youtube/channel/UC3t0crku6rK2y5eTbgp-klQ.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mFqfPmcsmQIjkH43HfxYfy37q342sj-9km1suItJK4v-bMNdEomo_uYdtBcaL4HBp5fpYJsjHQ=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", El Tribuno de Jujuy (10 A 13 HRS)
 https://ythls.kekikakademi.org/youtube/channel/UCMywWPYWcnMqkgIOdyeYgyA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tqZWzaFj4Q_NFN1df41ZNbK-qdOP1X_DtxKrLkKCcCfK25wwNvg4olXirpmS2RzFVgJrHcv9=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", Radio Provincia Jujuy Oficial
-https://ythls.kekikakademi.org/youtube/channel/UC-YQgCnNzDR_-Vr7rqsFCsQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO
-https://vivo.solumedia.com:19360/tecnovision/tecnovision.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/J9ngPOXcq348WtzBghopN9wLMJ-yhyMcGQU-Xwk-qxllMFbHC0bzhKsD8-_1pmEuahvbmQ16-XQ=s160-c-k-c0x00ffffff-no-rj" group-title="JUJUY", Radio Provincia Jujuy Oficial
+https://ythls.kekikakademi.org/youtube/channel/UC9G-ivG8rB6he1mZI3draNw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QWNwZ7m5kl8Xy81wa_8wI162RuL3a2uNqwGh0ESG3Tv1yFM3TWcQ-OovJIvV2m8Vs6jMce3-vw=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", JUJUY A DIARIO
 https://ythls.kekikakademi.org/youtube/channel/UCvptQkEfIsDyL_TQdXgFjQw.m3u8

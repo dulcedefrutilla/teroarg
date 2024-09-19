@@ -1374,9 +1374,6 @@ https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 9 RIO CUARTO
 https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bv_2_Ib1HlUx_iwLnSkZtPGYV_gQciut9czjC0PLl9QWTlQY3Q73ga1jQFuQZZq14XU7x2oDsw=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 4 SAN FRANCISCO CORDOBA
-http://204.199.3.2/.m3u8
-
 #EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/294077222_725925462156830_3719445387853469072_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjAR6qIthjrwycwxFaKhPvZfYrlKU_EBBl9iuUpT8QENDTjEPnKKVQIhl7UbhL644&_nc_ohc=tPu89EI_hV4Q7kNvgFFvTNE&_nc_ht=scontent.faep7-1.fna&oh=00_AYCGhkLVEFK1boMmO1ERAo1h-senLyIiX7fuppNaWOmIKg&oe=667D37A2" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
 http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
 
@@ -1392,9 +1389,6 @@ https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="CORDOBA", TV MANA HD
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1414594741_b30048000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="CORDOBA", CANAL 20 VILLA MARIA CORDOBA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="CORDOBA", UNIRIO TV
 https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8
 
@@ -1406,9 +1400,6 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="CORDOBA", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ceosca.jpg?itok=3PvTb4BU" group-title="CORDOBA", CEOSCA TV
-https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA
 https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
@@ -1435,7 +1426,7 @@ https://cs1.xcast.com.br/8890/8890/playlist.m3u8
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979373619263524864/JmC3rvJB.jpg" group-title="CORDOBA", 95.5 FM OK ARROYITO CORDOBA
-https://stmvideo1.livecastv.com/griffa/griffa/playlist.m3u8
+https://stmv5.livecastv.com/griffa/griffa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="CORDOBA", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://videostream.shockmedia.com.ar:19360/fmsoledad885/fmsoledad885.m3u8
@@ -1455,20 +1446,13 @@ https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://videohd.live:19360/8078/8078.m3u8
 
-#EXTINF:-1 tvg-logo="https://radioalegriafmweb.com/imagenes/banner.png" group-title="CORDOBA", ALEGRIA TV BELLVILLE 
-https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tv-tio-pujio.png?itok=QGApHr8I" group-title="CORDOBA", TV TIO PIJIO 
-https://fl1001.bozztv.com/ssh101/tvtiopujio/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8HuW1mRMf71Ap76zVOyyH1BEEys8P2_cc2fr4f-Er5RU5wrHqtTw0ieWobhL0bcRGA=w240-h480" group-title="CORDOBA", Radio La Porfiada Salsacate
 https://inliveserver.com:1936/12062/12062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.svision.com.ar/wp-content/uploads/2016/07/logo_sivision.png" group-title="CORDOBA", S VISION CALAMUCHITA
-https://inliveserver.com:1936/9010/9010/playlist.m3u8
+
 
 
 

@@ -1374,7 +1374,7 @@ https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 9 RIO CUARTO
 https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/294077222_725925462156830_3719445387853469072_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjAR6qIthjrwycwxFaKhPvZfYrlKU_EBBl9iuUpT8QENDTjEPnKKVQIhl7UbhL644&_nc_ohc=tPu89EI_hV4Q7kNvgFFvTNE&_nc_ht=scontent.faep7-1.fna&oh=00_AYCGhkLVEFK1boMmO1ERAo1h-senLyIiX7fuppNaWOmIKg&oe=667D37A2" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLGVyAAMQewxgpEpb0ec2qlOfPnapGz8Ibr_epK1SI9A=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
 http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Quatro-TV-Rio-Cuarto-en-vivo-Online.png" group-title="CORDOBA", QUATRO TV RIO CUARTO
@@ -4059,7 +4059,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCf0t3JPPILv3Pt4GiWwU3Ew.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/KJ32sS0KC836zytOmZbWfG7wgR1epfcK8zp3nZB5FyQkMTZxK7exBOLpMC9U9yBN3UZEa24O" group-title="CORDOBA", Cuarteteando
 https://ythls.kekikakademi.org/youtube/channel/UC6786bpkxmtqw2YgicH4g3A.m3u8?playlist=index
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_0N3p1cnIITphcj79c2vAQSbelcaw6kxncZafd1h53GMvi8g_3hgeM9OQUVn8I_fk-ly41yR" group-title="CORDOBA", Chingon | En Vivo
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-cfgK9ypoOEGjcdafGNtJk9Rb07VyoD7_uNTauv3hHzafsXHW6UE2E97p68WFa8ThONjJWojVg=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Chingon | En Vivo
 https://ythls.kekikakademi.org/youtube/channel/UCwEs6zaXoRw-FZksxnWkZgQ.m3u8?playlist=index
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Stylo Dolores 92.7

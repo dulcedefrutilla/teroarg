@@ -1,16 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,DEP | ESPN Premium HD (CL)
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1092
 
-#EXTINF:-1,DEP | TeNeTe SPORTS HD (AR)
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/2795
-
-
-#EXTINF:-1,DEP | DSPORTS 2 HD
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1205
-#EXTINF:-1,DEP | DSPORTS FHD (CO)
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1382
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
 http://181.209.114.13:8000/play/a02u/index.m3u8 

@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
 http://181.209.114.13:8000/play/a02u/index.m3u8 
 
@@ -7,11 +9,7 @@ http://181.209.114.13:8000/play/a02u/index.m3u8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
-http://45.5.151.151:8000/play/a0fe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
-http://45.5.151.151:8000/play/a002/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="prueba stream", el ocho tv 2
@@ -19,29 +17,7 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x8z8w7c.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="Premium", HBO
-http://190.11.130.46/mnp/hbo/output.mpd
 
-#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="Premium", HBO 2
-http://190.11.130.46/mnp/hbo2/output.mpd
-
-#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="Premium", HBO Family
-http://190.11.130.46/mnp/hbofam/output.mpd
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature HD
-http://190.11.130.46/mnp/hbosig/output.mpd
-
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Premium", HBO Plus
-http://190.11.130.46/mnp/hboplus/output.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="Premium", HBO Mundi
-http://190.11.130.46/mnp/hbomund/output.mpd
-
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Premium", HBO Xtreme
-http://190.11.130.46/mnp/hboxtr/output.mpd
-
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Premium", HBO Pop
-http://190.11.130.46/mnp/hbopop/output.mpd
 
 
 
@@ -71,6 +47,9 @@ https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls.kekikakademi.org
 https://ythls.kekikakademi.org/youtube/channel/UCaaPyamj-fpwgI98YARzT7g.m3u8
+
+
+
 
 
 
@@ -107,6 +86,30 @@ http://190.11.130.46/mnp/dsc_sci/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="LATINO TV", Discovery Home & Health
 http://190.11.130.46/mnp/disc_hh/output.mpd
 
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="LATINO TV", HBO
+http://190.11.130.46/mnp/hbo/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="LATINO TV", HBO 2
+http://190.11.130.46/mnp/hbo2/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="LATINO TV", HBO Family
+http://190.11.130.46/mnp/hbofam/output.mpd
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="LATINO TV" , HBO Signature HD
+http://190.11.130.46/mnp/hbosig/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="LATINO TV", HBO Plus
+http://190.11.130.46/mnp/hboplus/output.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="LATINO TV", HBO Mundi
+http://190.11.130.46/mnp/hbomund/output.mpd
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="LATINO TV", HBO Xtreme
+http://190.11.130.46/mnp/hboxtr/output.mpd
+
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="LATINO TV", HBO Pop
+http://190.11.130.46/mnp/hbopop/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="LATINO TV", TLC 
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
 
@@ -123,7 +126,7 @@ http://190.11.130.46/mnp/espn/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="LATINO TV", ESPN 2 HD
 http://190.11.130.46/mnp/espn2/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="DEPORTES", ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="LATINO TV", ESPN 3 HD
 http://190.11.130.46/mnp/espn3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="LATINO TV", ESPN 4
@@ -183,7 +186,7 @@ http://190.11.130.46/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="LATINO TV", TNT Series
 http://190.11.130.46/mnp/tntseries/output.mpd
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Entertainment", Tooncast
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="LATINO TV", Tooncast
 http://190.11.130.46/mnp/tooncast/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="LATINO TV", Universal Channel

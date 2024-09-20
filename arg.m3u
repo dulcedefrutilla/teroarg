@@ -90,7 +90,7 @@ https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
-http://190.11.130.46/mnp/elnueve/output.mpd
+http://187.102.208.83:50000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -102,10 +102,10 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
-http://190.11.130.46/mnp/encuentro/output.mpd
+http://181.78.27.128:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
-http://181.209.114.13:8000/play/a06e/index.m3u8
+http://181.13.173.86:8000/play/a06e/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -123,7 +123,6 @@ http://190.11.130.46/mnp/pkpk/output.mpd
 http://190.11.130.46/mnp/cinear/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
-http://190.11.130.46/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="NACIONALES", DEPORTV
 http://190.11.130.46/mnp/dxtv/output.mpd

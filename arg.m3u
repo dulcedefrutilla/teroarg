@@ -1788,6 +1788,9 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/images_15.jpg?itok=L3aJf_Bt" group-title="MISIONES", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" group-title="MISIONES", TV DONNA DIGITAL
+https://fl1002.bozztv.com/ssh101/canaldonnatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o3GQ_5-eMUQ/XdghLlaXsJI/AAAAAAAAJek/hXsgZgK054ke--p_pshwTXkROwYJNkZ_ACLcBGAsYHQ/s1600/radio-la-retro.png" group-title="MISIONES", RADIO LA RETRO PUERTO RICO MISIONES
 https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
 

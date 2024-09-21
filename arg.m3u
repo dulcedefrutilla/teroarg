@@ -204,7 +204,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
-http://181.78.27.128:8000/play/a009/index.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8    
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +
 http://181.13.173.86:8000/play/a01s/index.m3u8

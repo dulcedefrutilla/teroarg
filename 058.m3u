@@ -155,23 +155,23 @@ http://190.11.130.46/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="LATINO TV", HBO 2
 http://190.11.130.46/mnp/hbo2/output.mpd
 
-#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="LATINO TV", HBO Family
-http://190.11.130.46/mnp/hbofam/output.mpd
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="LATINO TV" , HBO Signature HD
-http://190.11.130.46/mnp/hbosig/output.mpd
-
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="LATINO TV", HBO Plus
 http://190.11.130.46/mnp/hboplus/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="LATINO TV", HBO Family
+http://190.11.130.46/mnp/hbofam/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="LATINO TV", HBO Mundi
 http://190.11.130.46/mnp/hbomund/output.mpd
 
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="LATINO TV", HBO Xtreme
-http://190.11.130.46/mnp/hboxtr/output.mpd
-
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="LATINO TV", HBO Pop
 http://190.11.130.46/mnp/hbopop/output.mpd
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="LATINO TV" , HBO Signature HD
+http://190.11.130.46/mnp/hbosig/output.mpd
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="LATINO TV", HBO Xtreme
+http://190.11.130.46/mnp/hboxtr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="LATINO TV", History
 http://190.11.130.46/mnp/history/output.mpd

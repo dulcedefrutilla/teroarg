@@ -82,6 +82,9 @@ http://190.11.130.46/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="LATINO TV", Cinemax
 http://190.11.130.46/mnp/cinemax/output.mpd
 
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
+http://190.11.130.46/mnp/cm/output.mpd
+
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="LATINO TV", CNN en Español
 http://190.11.130.46/mnp/cnn/output.mpd
 

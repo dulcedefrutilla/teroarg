@@ -212,6 +212,9 @@ http://190.11.130.46/mnp/history/output.mpd
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/QYsFZTANMLqngS1NuqlDV/2d74d66512950c64c662bdf3be99ee7f/121_HTV.png?fm=webp&q=80" group-title="LATINO TV" , HTV
 http://190.11.130.46/mnp/htv/output.mpd
 
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="LATINO TV", IP Noticias
+http://190.11.130.46/mnp/ip/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="LATINO TV", Lifetime
 http://190.11.130.46/mnp/lifetime/output.mpd
 
@@ -245,14 +248,32 @@ http://190.11.130.46/mnp/space/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="LATINO TV", Star Channel
 http://190.11.130.46/mnp/foxhd/output.mpd
 
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="LATINO TV", TV Pública
+http://190.11.130.46/mnp/tvp/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="LATINO TV", TCM
 http://190.11.130.46/mnp/tcm/output.mpd
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="LATINO TV", Telefe
+http://190.11.130.46/mnp/telefe/output.mpd
+
+#EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="LATINO TV", Telemundo Internacional
+http://190.11.130.46/mnp/telemundo/output.mpd
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="LATINO TV", TN
+https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="LATINO TV", TNT
 http://190.11.130.46/mnp/tnt/output.mpd
 
+#EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/27977740.jpg" group-title="LATINO TV", TNT Novelas
+http://190.11.130.46/mnp/tntnovelas/output.mpd
+
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="LATINO TV", TNT Series
 http://190.11.130.46/mnp/tntseries/output.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="LATINO TV", TNT Sports 
+http://190.11.130.46/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="LATINO TV", Tooncast
 http://190.11.130.46/mnp/tooncast/output.mpd

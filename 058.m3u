@@ -224,11 +224,17 @@ http://190.11.130.46/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="LATINO TV", Nick Jr
 http://190.11.130.46/mnp/nickjr/output.mpd
 
-#EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="Infantiles", Nickelodeon
+#EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="LATINO TV", Nickelodeon
 http://190.11.130.46/mnp/nickelodeon/output.mpd
+
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="LATINO TV" , NHK World Japon
+http://190.11.130.46/mnp/nhk/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="LATINO TV", Paramount Network
 http://190.11.130.46/mnp/paramount/output.mpd
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="LATINO TV", Rural TV
+http://190.11.130.46/mnp/rural/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" group-title="LATINO TV", Sony Channel
 http://190.11.130.46/mnp/sony/output.mpd

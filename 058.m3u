@@ -130,6 +130,8 @@ http://190.11.130.46/mnp/disney/output.mpd
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="LATINO TV", Disney Jr
 http://190.11.130.46/mnp/disneyjr/output.mpd
 
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="LATINO TV", El Gourmet
+http://190.11.130.46/mnp/gourmet/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="LATINO TV", ESPN HD
 http://190.11.130.46/mnp/espn/output.mpd
@@ -191,6 +193,9 @@ http://190.11.130.46/mnp/hboxtr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="LATINO TV", History
 http://190.11.130.46/mnp/history/output.mpd
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/QYsFZTANMLqngS1NuqlDV/2d74d66512950c64c662bdf3be99ee7f/121_HTV.png?fm=webp&q=80" group-title="LATINO TV" , HTV
+https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="LATINO TV", Lifetime
 http://190.11.130.46/mnp/lifetime/output.mpd

@@ -103,20 +103,33 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="LATINO TV", Discovery Channel
 http://190.11.130.46/mnp/discovery/output.mpd
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="LATINO TV", Discovery Science
-http://190.11.130.46/mnp/dsc_sci/output.mpd
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="LATINO TV", Discovery HGTV 
+http://190.11.130.46/mnp/dsc_hgtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="LATINO TV", Discovery Home & Health
 http://190.11.130.46/mnp/disc_hh/output.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="LATINO TV", Discovery Turbo
-http://190.11.130.46/mnp/dsc_turbo/output.mpd
+#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="LATINO TV", Discovery Kids
+http://190.11.130.46/mnp/disc_kids/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="LATINO TV", Discovery Science
+http://190.11.130.46/mnp/dsc_sci/output.mpd
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="LATINO TV", Discovery TLC 
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="LATINO TV", Discovery HGTV 
-http://190.11.130.46/mnp/dsc_hgtv/output.mpd
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="LATINO TV", Discovery Turbo
+http://190.11.130.46/mnp/dsc_turbo/output.mpd
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1Np2cHnQxvzXiPeMMxuJpn/0d128c7aad11e845b0af560b64207aba/90_DiscoveryWorld.png?fm=webp&q=80" group-title="LATINO TV" , Discovery World 
+http://190.11.130.46/mnp/disc_world/output.mpd
+
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" audio-track="spa" group-title="LATINO TV", Disney Channel
+http://190.11.130.46/mnp/disney/output.mpd
+
+#EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="LATINO TV", Disney Jr
+http://190.11.130.46/mnp/disneyjr/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="LATINO TV", ESPN HD
 http://190.11.130.46/mnp/espn/output.mpd

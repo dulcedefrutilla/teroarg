@@ -222,10 +222,10 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
-https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
-https://ythls.kekikakademi.org/youtube/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8    
+http://181.209.114.13:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +
 http://181.13.173.86:8000/play/a01s/index.m3u8
@@ -1511,7 +1511,7 @@ https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
-https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
+http://181.209.95.29:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8

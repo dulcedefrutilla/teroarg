@@ -34,8 +34,7 @@ http://181.13.173.86:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
 http://186.148.195.206:8000/play/a04u/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
-http://181.204.184.123:8000/play/a00q/index.m3u8
+
 
 
 
@@ -82,7 +81,7 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 http://home-playtv.com:8080/miralatin2243/JJKTU/158506
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1205
+http://162.246.20.30/mastervip/lista.php?id=6575
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
 http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1382

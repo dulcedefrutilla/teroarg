@@ -66,35 +66,37 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
-http://home-playtv.com:8080/miralatin2243/JJKTU/158506
+
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
-http://162.246.20.30/mastervip/lista.php?id=6575
+
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1382
+
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 12
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1098
+
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 13
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/2795
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", DSPORTS 2 HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1383
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1194
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", DSPORTS PLUS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1195
 
 
 

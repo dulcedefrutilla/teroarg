@@ -926,9 +926,6 @@ https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200/SKYVISION%20TV.jpg" group-title="AMBA", Sky Vision
 https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="AMBA", LA PODEROSA TV
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZUAZtUv4nPqv-cDM9NBOvMkFPsgM9y0jHRCXlrPQ=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", UNQtv
 https://ythls.kekikakademi.org/youtube/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8
 
@@ -1084,7 +1081,7 @@ https://tvradiozap.eu/tools/dm.m3u8.php/x7kvvgi.m3u8
 https://alternatv.ar/stream/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.eleco.com.ar/eleco-static/images/eco-tv.svg" group-title="PCIA BS AS", ECO TV TANDIL
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playist.m3u8
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tS-MzAHw_400x400_0.jpg?itok=G0qNiGQD" group-title="PCIA BS AS", EPS TV BRAGADO
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8

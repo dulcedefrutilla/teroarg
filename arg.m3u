@@ -866,6 +866,9 @@ https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="AMBA", ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png" group-title="AMBA", MONTE GRANDE TELEVISION
+https://fl1002.bozztv.com/ssh101/montegrandetv/tracks-v1a1/mono.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA 32.1
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8  
 
@@ -1547,6 +1550,9 @@ https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/flownoticias.com.ar/wp-content/uploads/2023/12/cropped-cropped-FLOW_png-1.png?fit=1656%2C1353&ssl=1" group-title="ENTRE RIOS", FLOW NOTICIAS
+https://fl1002.bozztv.com/ssh101/flownoticias/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lqGIeWkCT5X_fBPCPa8IVr0EBzXvWFkC3C_3IJPXI0iEjj_PJSQ4XbkhM2lGGZ3VZcWiFYe_=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
@@ -1742,6 +1748,9 @@ https://tvd.uncu.edu.ar/memfs/8f90310c-f1d6-46ff-9fa1-77f07ea80005.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
 https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png" group-title="MENDOZA", LATINA TV MENDOZA
+https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8

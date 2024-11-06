@@ -1,14 +1,14 @@
 #EXTM3U    
 
-#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 1
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", AZTECA 7
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 2
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", CANAL 5
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 3
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 4
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 5
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", AMERICA TV PERU
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 6
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/6.m3u8
@@ -20,6 +20,8 @@ https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/8.m3u8
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 10
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 11
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/11.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 12
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/12.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 13
@@ -28,6 +30,18 @@ https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/13.m3u8
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/14.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 15
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 16
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 16
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 17
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/17.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 18
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/18.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 19
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/19.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tango Sports", 20
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/20.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 99
 https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/99.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tango Sports", 100

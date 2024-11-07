@@ -7,6 +7,8 @@
 https://glb.bozztv.com/glb/ssh101/sportmax/playlist.m3u8
 
 
+#EXTINF:10 group-title="latino" tvg-id="latino/bravotv" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Bravo TV
+http://89.117.74.211:1234/stream/latino/bravotv?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
 
 

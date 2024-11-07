@@ -121,9 +121,6 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/CanalNet.playl
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="NACIONALES", LOS SIMPSONS
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/RCvDoJkJX7HxRTuRbBOO7ax-PCaVrly5XCIxhSCu1--9JM-r85hJYOO4SEkIu6kxasDL4IjaUBQ=s48-c-k-c0x00ffffff-no-rj" group-title="NACIONALES" , DGO
-https://ythls.armelin.one/channel/UCqxBNDHmEZgqU1B61oc-QhQ.m3u8
-
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://181.209.114.13:8000/play/a01m/index.m3u8
 
@@ -746,6 +743,11 @@ https://ythls.armelin.one/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HIeucb9xdTW5Hh7kkhDiROU7zLO6fNzn6q_fDvgFr_fD2qFH1vT-8U2OdOf0Pb_VCvmD-PClgQ=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", TyC Sports YT STREAM
 https://ythls.armelin.one/channel/UC72ZaBKI-Bo5fjmWEYonhJw.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/RCvDoJkJX7HxRTuRbBOO7ax-PCaVrly5XCIxhSCu1--9JM-r85hJYOO4SEkIu6kxasDL4IjaUBQ=s48-c-k-c0x00ffffff-no-rj" group-title="NACIONALES" , DGO YT STREAM
+https://ythls.armelin.one/channel/UCqxBNDHmEZgqU1B61oc-QhQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/5Z1hvxKjySfa98QkFzmeLJiNhZLi7vaQAh_eVDJdU5v5Cyf_Ez45K1fhnO_R0Px6-qRfYPV2Pk8=s48-c-k-c0x00ffffff-no-rj" group-title="NACIONALES" , Chiringuito Inside
+https://ythls.armelin.one/channel/UCznSLkPhcORf0JhonB7Aegg.m3u8
 
 
 

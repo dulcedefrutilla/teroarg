@@ -2216,7 +2216,7 @@ https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/chunklist_w621301202.m3u8
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
-https://ythls-v3.onrender.com/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
+https://ythls-v3.onrender.com/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8  
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal5.playlist.m3u8

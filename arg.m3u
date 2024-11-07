@@ -2357,10 +2357,8 @@ https://videostream.shockmedia.com.ar:19360/rdmtv/rdmtv.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_TV_P%C3%BAblica_Fueguina.png/1200px-Logo_TV_P%C3%BAblica_Fueguina.png" group-title="TIERRA DEL FUEGO", TELEVISION PUBLICA FUEGUINA
-https://nd106.republicaservers.com/hls/c6988/index.m3u8
+https://ythls-v3.onrender.com/channel/UCCFKUBNqgjkHGYgfviH_Czw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal2.com.ar/_next/image?url=%2Fcanal2-logo.png&w=48&q=75" group-title="TIERRA DEL FUEGO", CANAL 2 USHUAIA
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
@@ -2374,7 +2372,8 @@ http://streamyes.alsolnet.com/estaciondelsiglo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1334879582147780614/9pfkP9y-_400x400.jpg" group-title="TIERRA DEL FUEGO", AIRE LIBRE 96.3 FM RIO GRANDE - TIERRA DEL FUEGO
 https://5f700d5b2c46f.streamlock.net/airelibrefm/airelibrefm/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_TV_P%C3%BAblica_Fueguina.png/1200px-Logo_TV_P%C3%BAblica_Fueguina.png" group-title="TIERRA DEL FUEGO", TELEVISION PUBLICA FUEGUINA
+https://nd106.republicaservers.com/hls/c6988/index.m3u8
 
 
 
@@ -2394,7 +2393,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Zb5rRSMGsf6FupV9ln_4s5ItF-H_mnq_sirWIc3jab0NVjWKpUO0LWNhTS7K11xmyIDfZD_h=s48-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", Los Primeros Tucuman
 https://ythls-v3.onrender.com/channel/UCf62XaF_MK2k2-wVggZ6kuw.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PANC TV
 https://panel.host-live.com:19360/81500/81500.m3u8

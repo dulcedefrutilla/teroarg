@@ -878,6 +878,13 @@ http://181.209.114.13:8000/play/a02c/index.m3u8
 #EXTINF:-1 vg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="CINE", CINE
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
 
+#EXTINF:-1 vg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="CINE", CINE 2
+https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
+
+#EXTINF:-1 vg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="CINE", CINE 3
+https://glb.bozztv.com/glb/ssh101/cinestarteve/playlist.m3u8
+
+
 #EXTINF:-1 vg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CINE", TERROR TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 

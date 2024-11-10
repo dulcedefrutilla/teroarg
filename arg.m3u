@@ -1850,7 +1850,7 @@ https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sevenmedia.com.ar/wp-content/uploads/2023/03/seven.png" group-title="LA RIOJA", SEVEN MEDIA
 https://stmv5.livecastv.com/seven/seven/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400%20%281%29_1.jpg?itok=OgaVRqc7" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
+#EXTINF:-1 tvg-logo="https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png" group-title="LA RIOJA", TEVE OCHO CHEPES LA RIOJA
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LA RIOJA", CHILECITO TV LA RIOJA

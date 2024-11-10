@@ -2514,12 +2514,6 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/f/4ffd587a23debd6faa287395b2485dab_icon.png" group-title="CINE", Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_banda_1080x1080_02092024.jpg" group-title="MUSICA", FreeTv BANDA
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
-
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa114420b-6a40-4d05-af07-b95c95525420%2FFreeTVHits_cover_1920x1080_-_Ralph_Campillo.jpg" group-title="MUSICA", FreeTv HITS
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6018913ea15130002b284191.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
-
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="CINE", FreeTv HORROR
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QMcFZYemHQeiRGyyfqD9
 
@@ -2689,7 +2683,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="flou-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg" group-title="CINE" , Flou Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="flou-caribeno" tvg-name="flou-caribeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg" group-title="MUSICA" , FLOU Caribeño
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=e30ddb3ce3777703c0c8dd41578c3b71
 #EXTINF:-1 tvg-id="vive-kanal-d-drama" tvg-name="vive-kanal-d-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x108033.jpg" group-title="ENTRETENIMIENTO" , Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="novelisima" tvg-name="novelisima" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg" group-title="ENTRETENIMIENTO" , Novelísima 
@@ -2732,8 +2726,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 #EXTINF:-1 tvg-id="puro-romance" tvg-name="puro-romance" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg" group-title="MUSICA" , PURO ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="ritmos-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_0.jpg" group-title="MUSICA" , RITMOS INOLVIDABLES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-id="regional-mx" tvg-name="regional-mx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/GE8gFwkpG0Z_3KXmoqcAUI1EJwRp2YF5PiX0KFWcqHM_0.jpg" group-title="MUSICA" , REGIONAL MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 
@@ -2878,9 +2870,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-ple
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSICA", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="MUSICA", XITE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816643465937293312/43xbmtGE_400x400.jpg" group-title="MUSICA", Colosal TV 
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 
@@ -2905,9 +2894,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/317qcmP-7GL.jpg" group-title="MUSICA", QWEST JAZZ
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/317qcmP-7GL.jpg" group-title="MUSICA", QWEST MIX
-https://qwest-mix-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/924_Panavision.png" group-title="MUSICA", Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
@@ -2925,9 +2911,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" group-title="MUSICA", Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="MUSICA", ON TV
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="MUSICA", First Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8

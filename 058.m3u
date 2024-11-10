@@ -101,9 +101,13 @@ http://home-playtv.com:8080/miralatin2243/JJKTU/158511
 
 
 
-#EXTINF:-1,ARG: DirecTV Sports 2 [SD]
-http://cdn22.cc:80/45125970/43446296/223248.ts
-#EXTINF:-1,ARG: DirecTV Sports Plus [CANAL OFF]
-http://cdn22.cc:80/45125970/43446296/223249.ts
-#EXTINF:-1,ARG: DirecTV Sports [SD]
-http://cdn22.cc:80/45125970/43446296/223247.ts
+#EXTINF:-1,TELENOVELAS
+http://8.242.176.45:1013/play/a0ez/index.m3u8
+#EXTINF:-1,Telenovelas
+http://45.169.163.83:8000/play/a1a9
+#EXTINF:-1,TELENOVELAS
+http://45.169.39.162:8000/play/a020/index.m3u8
+#EXTINF:-1,TELENOVELAS
+http://181.225.191.35:14002/play/a00h/index.m3u8
+#EXTINF:-1,TELENOVELAS
+http://190.102.246.93:9005/play/a03m

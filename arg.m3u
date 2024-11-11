@@ -990,6 +990,9 @@ https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b5
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1612_Zapp_Uno.png" group-title="AMBA", ZAPP UNO
 https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
+https://tv.portalexpress.es:3017/live/adminxlevellive.m3u8
+
 #EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 

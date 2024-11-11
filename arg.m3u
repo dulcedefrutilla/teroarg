@@ -2122,10 +2122,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", ZONDA TV SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/82536410_1298596117000777_4339975353511444480_o_1.png" group-title="SAN JUAN", DEL SUR TV SAN JUAN
+#EXTINF:-1 tvg-logo="https://www.delsurdiario.com/_rv20241101-01/web/assets/imgs/logos/delsur.png" group-title="SAN JUAN", DEL SUR TV SAN JUAN
 https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/82536410_1298596117000777_4339975353511444480_o_0.png?itok=zbFF-GkD" group-title="SAN JUAN", CANAL 34 SAN JUAN
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_muVx0EEioF2p91zBEe1D73dhe4imf2UcdBN12KrhkuWH0=s48-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjOAZXFvw3QHIRbNR0ASUCjpGcP_7jbvopg&usqp=CAU" group-title="SAN JUAN", BLU HD SAN JUAN

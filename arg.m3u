@@ -794,7 +794,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1737931096_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", CGTN ESPAÑOL
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Ukraine 24 Ucrania
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8

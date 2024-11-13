@@ -6,9 +6,130 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/21/Sportmax_1_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20231120195850" group-title="Tango Sports", SPORTMAX EVENTOS
 https://glb.bozztv.com/glb/ssh101/sportmax/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Argentina|| Canal 3 Rosario" tvg-name="Argentina|| Canal 3 Rosario" tvg-logo="https://pbs.twimg.com/profile_images/1036261896897417217/PyLR6rnw_400x400.jpg" group-title="Argentina",Argentina|| Canal 3 Rosario
-http://moontools.me:8080/Daryl/fHwmAs3yACdas/1148857
+#EXTINF:-1 tvg-id="" tvg-name="========= URUGUAY  =========" tvg-logo="" group-title="Uruguay",========= URUGUAY  =========
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/26634
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| 1000 X Hora Tv" tvg-logo="http://vivotvhd.com/img/cha/3026.gif" group-title="Uruguay",Uruguay|| 1000 X Hora Tv
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/28085
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| TV Ciudad" tvg-logo="https://pbs.twimg.com/profile_images/1136660931260366849/eyPm6evK_400x400.png" group-title="Uruguay",Uruguay|| TV Ciudad
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/28087
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV HD" tvg-logo="https://i.ytimg.com/vi/JJOtX3i9p0E/hqdefault.jpg" group-title="Uruguay",Uruguay|| VTV HD
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/28088
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Teledoce SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Teledoce_logo_2004.png/150px-Teledoce_logo_2004.png" group-title="Uruguay",Uruguay|| Teledoce SD
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/28089
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 5" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8071/240/default.jpg" group-title="Uruguay",Uruguay|| Canal 5
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/28090
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 10." tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="Uruguay",Uruguay|| Canal 10.
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1113116
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 4" tvg-logo="https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg" group-title="Uruguay",Uruguay|| Canal 4
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1113117
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 5" tvg-logo="" group-title="Uruguay",Uruguay|| Canal 5
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1128514
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| A + V" tvg-logo="https://veratvimgs.cdn.antel.net.uy/misc/assets/logo-veratv.png" group-title="Uruguay",Uruguay|| A + V
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1130050
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Charrua Tv" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6038/240/default.jpg" group-title="Uruguay",Uruguay|| Charrua Tv
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1130051
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Artigas Television" tvg-logo="" group-title="Uruguay",Uruguay|| Artigas Television
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1130053
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 11 Treinta y Tres" tvg-logo="" group-title="Uruguay",Uruguay|| Canal 11 Treinta y Tres
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1130054
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal M" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="Uruguay",Uruguay|| Canal M
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1130491
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV HD Opc. 2" tvg-logo="https://i.ytimg.com/vi/JJOtX3i9p0E/hqdefault.jpg" group-title="Uruguay",Uruguay|| VTV HD Opc. 2
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1132207
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV PLUS" tvg-logo="https://lh4.googleusercontent.com/proxy/_ugSGQr65ZWhZsETPTwXkXLi4V0I6GUl3Y0d1XXeYeEWqL2ZasHG24nAwhp3_UYNgWe8Q2Egty8eMAIUDRDVWuYZmsbOZrxmbdvIorbkkUGJ9e7b50QylbA2f8JZtgPi17Mlfafc_jWPgClKbsphvLt4EbDNJY6bEkxelg=s0-d" group-title="Uruguay",Uruguay|| VTV PLUS
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134172
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 12 HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/07/og-image-all.jpg" group-title="Uruguay",Uruguay|| Canal 12 HD
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134173
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="Uruguay",Uruguay|| Canal 4
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134174
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="Uruguay",Uruguay|| Canal 12
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134175
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| 1000 X Hora TV" tvg-logo="https://www.1000xhora.tv/images/logo.png" group-title="Uruguay",Uruguay|| 1000 X Hora TV
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134176
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 10 SAETA" tvg-logo="https://i.pinimg.com/originals/66/e9/06/66e906d27abd2a8378e43c95efabce3b.png" group-title="Uruguay",Uruguay|| Canal 10 SAETA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134177
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="Uruguay",Uruguay|| VTV
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134178
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Canal_10_logo.jpg" group-title="Uruguay",Uruguay|| Canal 10
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134180
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 2 SAN CARLOS" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg" group-title="Uruguay",Uruguay|| Canal 2 SAN CARLOS
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134189
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Artigas Television" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg" group-title="Uruguay",Uruguay|| Artigas Television
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1134190
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal UCL" tvg-logo="https://www.nicepng.com/png/full/797-7970088_file-logo-canal-u-uruguay-png-wikimedia-commons.png" group-title="Uruguay",Uruguay|| Canal UCL
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1151611
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| TVCIUDAD" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg" group-title="Uruguay",Uruguay|| TVCIUDAD
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155775
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| PRESIDENCIA URUGUAY" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6730/240/default.jpg" group-title="Uruguay",Uruguay|| PRESIDENCIA URUGUAY
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155776
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| RDTV 24HS" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/35396/240/default.jpg" group-title="Uruguay",Uruguay|| RDTV 24HS
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155778
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| 1000XHORA TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg" group-title="Uruguay",Uruguay|| 1000XHORA TV
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155779
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CARDINAL TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg" group-title="Uruguay",Uruguay|| CARDINAL TV
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155780
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| A + V" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6707/240/default.jpg" group-title="Uruguay",Uruguay|| A + V
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155781
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| La Red" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6054/240/default.jpg" group-title="Uruguay",Uruguay|| La Red
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155782
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CáMARA DE REPRESENTANTES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6763/240/default.jpg" group-title="Uruguay",Uruguay|| CáMARA DE REPRESENTANTES
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155783
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 2 HD SAN CARLOS" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 2 HD SAN CARLOS
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155786
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL M" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL M
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155788
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| MARONAS ENTERTAINMENT" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg" group-title="Uruguay",Uruguay|| MARONAS ENTERTAINMENT
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155789
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 SALTO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8081/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 SALTO
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155790
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 7 PUNTA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 7 PUNTA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155791
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 12 MELO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 12 MELO
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155792
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 9 TELEROCHA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 9 TELEROCHA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155796
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 6 DURAZNO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 6 DURAZNO
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155798
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| FLORIDA TELEVISORA COLOR" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="Uruguay",Uruguay|| FLORIDA TELEVISORA COLOR
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155799
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 HD TREINTA Y TRES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6061/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 HD TREINTA Y TRES
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155803
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 8 ROCHA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6071/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 8 ROCHA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155804
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| ARTIGAS TELEVISION" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg" group-title="Uruguay",Uruguay|| ARTIGAS TELEVISION
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155805
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 11 TREINTA Y TRES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 11 TREINTA Y TRES
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155806
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| EL CANAL DE LA REGION - NORESTE" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6703/240/default.jpg" group-title="Uruguay",Uruguay|| EL CANAL DE LA REGION - NORESTE
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155808
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 8 RIVERA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 8 RIVERA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155809
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 PAYSANDU" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9239/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 PAYSANDU
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155810
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 2 VISION CANARIA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9411/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 2 VISION CANARIA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155811
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| SAN JOSE AHORA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/28835/240/default.jpg" group-title="Uruguay",Uruguay|| SAN JOSE AHORA
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155812
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 8 DURAZNO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 8 DURAZNO
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155816
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 JUAN LACAZE" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 JUAN LACAZE
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155818
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 11 LAS PIEDRAS" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 11 LAS PIEDRAS
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155819
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 CHUY" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6057/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 CHUY
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155820
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| RIO URUGUAY TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg" group-title="Uruguay",Uruguay|| RIO URUGUAY TV
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1155821
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Claro Sports HD" tvg-logo="" group-title="Uruguay",Uruguay|| Claro Sports HD
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1192294
+#EXTINF:-1 tvg-id="amastv.mx" tvg-name="VERA+ HD (SOLO CLIENTES ANTEL)" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg" group-title="Uruguay",VERA+ HD (SOLO CLIENTES ANTEL)
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1210376
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISION NACIONAL" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg" group-title="Uruguay",TELEVISION NACIONAL
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1210377
+#EXTINF:-1 tvg-id="" tvg-name="TVCIUDAD" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg" group-title="Uruguay",TVCIUDAD
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1210378
+#EXTINF:-1 tvg-id="" tvg-name="PRESIDENCIA URUGUAY" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6730/240/default.jpg" group-title="Uruguay",PRESIDENCIA URUGUAY
+http://moontools.me:8080/Daryl/fHwmAs3yACdas/1210379
 
 
 

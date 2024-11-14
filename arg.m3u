@@ -1655,6 +1655,9 @@ https://videohd.live:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="CORRIENTES", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/sancosmeonline.com.ar/wp-content/uploads/2020/08/Canal8.jpeg?w=796&ssl=1" group-title="CORRIENTES",CANAL 8 SAN COSME
+http://181.13.173.86:8000/play/a0aw/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeobVZSUSlYfI0H8f9RkyWSbyRYwSURmJawqSVK65z2lW9yGdwe_ftCN8eGbwSQ6D87nsL9hy5xYu9Wgs442wtSHmF7kufYK31yb2vb-HdJhyLD-xW2NDzi5xCruhVuJ7lGtiO6vYPrvUF6ne78v2b4L-ccGsY4jJYvWaf_duyosiFvf28uyDXcVozh54/s445/Screenshot_2024-02-08_at_15-56-57_Litoral_Cable_Visi%C3%B3n-removebg-preview.png" group-title="CORRIENTES", LITORAL CABLEVISION LA CRUZ
 https://videohd.live:19360/8018/8018.m3u8
 
@@ -1699,9 +1702,6 @@ https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/flownoticias.com.ar/wp-content/uploads/2023/12/cropped-cropped-FLOW_png-1.png?fit=1656%2C1353&ssl=1" group-title="ENTRE RIOS", FLOW NOTICIAS
-https://fl1002.bozztv.com/ssh101/flownoticias/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lqGIeWkCT5X_fBPCPa8IVr0EBzXvWFkC3C_3IJPXI0iEjj_PJSQ4XbkhM2lGGZ3VZcWiFYe_=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
@@ -1710,6 +1710,9 @@ https://panel.host-live.com/9099/9099/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/794587628427497472/aZ5YVv_e.jpg" group-title="ENTRE RIOS", REMANZO TV HERNANDARIAS ENTRE RIOS
 https://stmvideo1.livecastv.com/remansotv/remansotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
+http://181.13.173.86:8000/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
 https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
@@ -4225,9 +4228,6 @@ https://ythls-v3.onrender.com/channel/UCfnW8ZvUokNzgBDioLyb2Jw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/40rptCTXnlrSVBB4PjRlmeBgs7OhSkZDawUZLF2p9a-HHQoldPbx1-UxsDDuS556qXK46L79Pg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Radio LT7 AM 900
 https://ythls-v3.onrender.com/channel/UCOEfC01xcEN2e_Dju2MP88Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
-https://ythls-v3.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845676050470371329/r_9D6hXw_400x400.jpg" group-title="ENTRE RIOS", FM DEL EXODO 88.5 - NOGOYA
 https://ythls-v3.onrender.com/channel/UCapnd7dvjhAckdgX2ostj3g.m3u8

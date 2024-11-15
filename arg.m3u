@@ -1542,7 +1542,7 @@ https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLGVyAAMQewxgpEpb0ec2qlOfPnapGz8Ibr_epK1SI9A=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
-http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
+https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Quatro-TV-Rio-Cuarto-en-vivo-Online.png" group-title="CORDOBA", QUATRO TV RIO CUARTO
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
@@ -1568,7 +1568,7 @@ https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/140264_032cb4f22381422ebf36e8811cc96a68~mv2.png" group-title="CORDOBA", MILENNIO TV
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/140264_032cb4f22381422ebf36e8811cc96a68~mv2.png" group-title="CORDOBA", Megaclassic TV 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="CORDOBA", Megaclassic TV 
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="CORDOBA", Televideo 

@@ -1574,6 +1574,9 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="CORDOBA", Televideo 
 https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixG7m_ziEoQcR1BpIejvElegTT9_RSpo1m7NEaKwUCBlxD6xVU830PBkfzVzFlnFGwrtW1-yXNRFXHct9AVM3TmbzNQPwT45tJy5NQNTJ4TMpweQRhs2WtBzNTtfqPwlart3bIjfyu1QPKfrfjyT3gcs6n7W1LvABpTr6B1RCDYVbV9EGGZ8FzT4YG/s200/350719171_615710037162403_7392052004032939509_n.png" group-title="CORDOBA", Dannce TV
+https://stmvideo3.livecastv.com/dannceteve/dannceteve/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="CORDOBA", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 

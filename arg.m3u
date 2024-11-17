@@ -946,7 +946,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="INFANTIL", BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="yvu4AX_QjA98CZ3fgr7RLiBHA7MmGxqFDtXxLwtkcwp9bgCgjIb8SLTh_PBJaagn3IY5PvgzSAXAfMgxLUUBH-aGV4DB-ZxZKZIDgxHsMmBJMA6dEkfTHEXrnobhZ9HZpiEdzd0l_DobcbMLZxVdpvZvsZFcmeewFhCLAEXn5SERCUXuoT8Y1P3P0/s200/watermark.png" group-title="INFANTIL", BOX KIDS TV
+#EXTINF:-1  tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="INFANTIL", BOX KIDS TV
 https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
 
 

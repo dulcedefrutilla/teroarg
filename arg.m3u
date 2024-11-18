@@ -1133,6 +1133,10 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Radio_rockpop.png/200px-Radio_rockpop.png" group-title="RADIO-AMBA", Rock And Pop 95.9
 https://ythls.armelin.one/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/lbuMH0aEalHh_WqO-aOuPwU3JawaadpR8vU1GaRIzzYlXwbaQQoTEIhgTNIdvFKa2s_AREmQePQ=s48-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Futurock FM
+https://ythls.armelin.one/channel/UCgn6r0aGRBnEQm02tE_jzbw.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
 https://g3.vxral-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 

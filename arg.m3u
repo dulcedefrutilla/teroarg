@@ -1645,7 +1645,7 @@ https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/t5satelital.playlist.m3u8
+https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8

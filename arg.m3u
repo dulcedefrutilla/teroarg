@@ -2176,29 +2176,29 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://plusnews.com.ar/wp-content/uploads/2023/05/logo-PLUSNEWS-x1.png" group-title="SANTA CRUZ", PLUS NEWS RIO GALLEGOS
 https://stream.arcast.tv:8443/infomedia/infomedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kG6yC0lL_Ee7edK_ntQQ8hk9d6L9FT2ykw&s" group-title="SANTA CRUZ", ZN NOTICIAS
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/chunklist_w621301202.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXjlBi3kRhUbIfhKFnSL77ss_c6dYL53DdAcL8wKYvuvo7uI7HEkl7u37VdRygsf9ERI&usqp=CAU" group-title="SANTA CRUZ", CROSSING TV RIO GALLEGOS
 https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MPu-cVENDW-VrzC1zfk0XqLH2dTvvPaz0da4r6MbhSYb9CXflR418i0GVX34GJv4tQ" group-title="SANTA CRUZ", CANAL 3 LAS HERAS
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://estudiocity.com.ar/img/logo_1675432018.png" group-title="SANTA CRUZ", ESTUDIO CITY 100.5 RIO GALLEGOS
-https://inliveserver.com:1936/12030/12030/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000677072657/5258433abf9a1b4799167bd2c8506dbe_400x400.jpeg" group-title="SANTA CRUZ", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzcfrpm9bnfr.jpg" group-title="SANTA CRUZ", FM DIMENSION Puerto Deseado
-https://panel.dattalive.com/8150/8150/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="SANTA CRUZ", RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
-https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kG6yC0lL_Ee7edK_ntQQ8hk9d6L9FT2ykw&s" group-title="SANTA CRUZ", ZN NOTICIAS
-https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/chunklist_w621301202.m3u8
+
+#EXTINF:-1 tvg-logo="https://estudiocity.com.ar/img/logo_1675432018.png" group-title="SANTA CRUZ", ESTUDIO CITY 100.5 RIO GALLEGOS
+https://inliveserver.com:1936/12030/12030/playlist.m3u8
+
+
+
+ 
 
 
 
@@ -4235,6 +4235,9 @@ https://ythls-v3.onrender.com/channel/UC7LkxIkfazQTRGAjdSFM0SA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gaHNdVysPOHfFaaHOkJxIaj7WkFliD_y8PoWtdaG8FbetRNds_dpNYEG2GET0QMZZfzSK6D8hS8=s176-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", Radio Santa Lucia 99.7 San Juan
 https://ythls-v3.onrender.com/channel/UCfpWLXfGXnGSH6b3KMdnHSQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ (SOLO NOTICIERO)
+https://ythls-v3.onrender.com/channel/UC9b_E6KXdxnVQ9ofjKU5w-Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUcf3w7oCcCu4-p8up6G2JRySUo7ry6zN0DD26B_A=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA CRUZ", Diario Nuevo Día
 https://ythls-v3.onrender.com/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8

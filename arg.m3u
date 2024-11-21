@@ -1781,11 +1781,8 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocityfm.com/images/index/social-logo-rc-390x360.png" group-title="JUJUY", RADIOCITY JUJUY
 http://190.52.32.13:1935/CAMARAS/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISILCHA.png" group-title="JUJUY", SILVER CHANNEL
-https://stream.arcast.live/silverchannel/silverchannel/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISILCHA.png" group-title="JUJUY", RADIO TAHOS 107.3 FM
-https://panel.dattalive.com/8156/8156/playlist.m3u8
+https://stream.arcast.live/silverchannel/silverchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="JUJUY", TELECANAL JUJUY
 https://glb.bozztv.com/glb/ssh101/TLCANAL/playlist.m3u8
@@ -1920,11 +1917,26 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png"  group-title="MISIONES", Canal 4 Posadas 
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png" group-title="MISIONES", Canal 2 MISIONES
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal21tv.com.ar/images/logo.png" group-title="MISIONES", CANAL 21 POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="MISIONES", Noticias del 6 TV 
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.misionesonline.news/wp-content/uploads/2022/12/logomol-1-4-2.png" group-title="MISIONES", MISIONES ONLINE
-https://tvradiozap.eu/tools/dm.m3u8.php/x7zlqfx.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="MISIONES", CANAL 9 NORTE MISIONES
+https://panel.host-live.com:19360/8076/8076.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/779_Canal_4_Eldorado.png" group-title="MISIONES", Canal 4 EL DORADO
+https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/707937991654768640/H_thUBiX_400x400.jpg" group-title="MISIONES", CVI CANAL 5 Iguazu
+https://panel.host-live.com/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" group-title="MISIONES", TV DONNA DIGITAL
+https://fl1002.bozztv.com/ssh101/canaldonnatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TELE%20N.png" group-title="MISIONES", TELE N
 https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8 
@@ -1941,32 +1953,8 @@ https://media.radios.ar:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-logo="https://www.fm893.com.ar/wp-content/uploads/2017/07/LOGO-RADIO-1.png" group-title="MISIONES", FM 89.3 SANTA MARIA POSADAS
 https://clientes.videostreaming.ar:19360/vpro/vpro.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="MISIONES", CANAL 9 NORTE MISIONES
-https://panel.dattalive.com/8076/8076/playlist.m3u8  
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/779_Canal_4_Eldorado.png" group-title="MISIONES", Canal 4 EL DORADO
-https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png" group-title="MISIONES", Canal 2 MISIONES
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal21tv.com.ar/images/logo.png" group-title="MISIONES", CANAL 21 POSADAS
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" group-title="MISIONES", TV DONNA DIGITAL
-https://fl1002.bozztv.com/ssh101/canaldonnatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o3GQ_5-eMUQ/XdghLlaXsJI/AAAAAAAAJek/hXsgZgK054ke--p_pshwTXkROwYJNkZ_ACLcBGAsYHQ/s1600/radio-la-retro.png" group-title="MISIONES", RADIO LA RETRO PUERTO RICO MISIONES
-https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/707937991654768640/H_thUBiX_400x400.jpg" group-title="MISIONES", CVI CANAL 5 Iguazu
-https://panel.host-live.com/8078/8078/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347295937333522434/p0KOxUjd_400x400.jpg" group-title="MISIONES", RADIO CE - SAN VICENTE
-https://panel.dattalive.com/8098/8098/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radioestacionazul.com/wp-content/uploads/2019/12/cropped-AZUL.png?fit=273%2C72&ssl=1" group-title="MISIONES", RADIO ESTACION AZUL 106.9 MISIONES
-https://iptv.ixfo.com.ar:30443/radio/radioazul/playlist.m3u8
+https://iptv.ixfo.com.ar:30443/live/EstacionAzulTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediavox.com.ar/img/logo_1647309398.png" group-title="MISIONES", RADIO VOX 25 DE MAYO
 https://inliveserver.com:1936/17004/17004/playlist.m3u8
@@ -1975,11 +1963,13 @@ https://inliveserver.com:1936/17004/17004/playlist.m3u8
 https://inliveserver.com:1936/9004/9004/playlist.m3u8   
 
 #EXTINF:-1 tvg-logo="https://radioiguazu.com/wp-content/uploads/2024/07/radio-yguazu-julio-2024.png" group-title="MISIONES", Radio Yguazu TV
-https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o3GQ_5-eMUQ/XdghLlaXsJI/AAAAAAAAJek/hXsgZgK054ke--p_pshwTXkROwYJNkZ_ACLcBGAsYHQ/s1600/radio-la-retro.png" group-title="MISIONES", RADIO LA RETRO PUERTO RICO MISIONES
+https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347295937333522434/p0KOxUjd_400x400.jpg" group-title="MISIONES", RADIO CE - SAN VICENTE
+https://panel.dattalive.com/8098/8098/playlist.m3u8
 
 
 

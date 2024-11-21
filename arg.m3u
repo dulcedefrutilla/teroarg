@@ -200,7 +200,7 @@ https://delivery.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/c26.playlist.m3u8
+http://190.94.186.158:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD 
 https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -209,7 +209,7 @@ https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
-http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local84.playlist.m3u8
+http://190.94.186.158:8000/play/a0b5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
 http://181.209.114.13:8000/play/a01p/index.m3u8
@@ -221,7 +221,7 @@ http://181.13.173.86:8000/play/a01s/index.m3u8
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
+http://190.94.186.158:8000/play/a0bq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CHACRA TV
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8

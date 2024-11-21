@@ -1052,43 +1052,12 @@ https://ythls-v3.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
 https://ythls-v3.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
-https://panel.dattalive.com/8118/8118/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1722854062943588352/TI09rU_V_400x400.jpg" group-title="AMBA", BUENOS AIRES BA
-https://glb.bozztv.com/glb/ssh101/batvar/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/00EQSpLEHALZcBu6cDo8t4fURJaePo0HH9IBZt7QYbkCukYnp4TzKR4WSrXyBrcZOquzvDUB_dI=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", DITI TV
-https://glb.bozztv.com/glb/ssh101/dititv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1629522482/image_400x400.jpg" group-title="AMBA", CANAL 4 TELEAIRE SAN MARTIN
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="AMBA", 24-7 TV
-https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102262882321002496/q3dbohLs_400x400.jpg" group-title="AMBA", CANAL UNO TV
-https://stmv3.voxtvhd.com.br/unotvargentina/unotvargentina/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2024/03/63-TV-Fantastico.jpg" group-title="AMBA", CANAL 4 TV FANTASTICO
-https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200/SKYVISION%20TV.jpg" group-title="AMBA", Sky Vision
-https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
+https://panel.host-live.com/8118/8118/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2023/07/logo-set-ipersonica-tv-color.png?w=1024" group-title="AMBA", IPERSONICA
-https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1612_Zapp_Uno.png" group-title="AMBA", ZAPP UNO
-https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
 
 

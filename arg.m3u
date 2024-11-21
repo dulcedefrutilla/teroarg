@@ -1257,16 +1257,13 @@ https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcvcEfCDDMI64P-XhuxuiWN0jV2WEn6qM3IfX1kYWh8atD3b4K8032h_yIEG42uvA2g&usqp=CAU" group-title="PCIA BS AS", AGENDA NECOCHENSE
 https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/celta_tv_Argentina.jpg" group-title="PCIA BS AS", CELTA TV TRES ARROYOS
-https://vivo.solumedia.com:19360/celta/celta.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/461996477468778496/01djHylv.jpeg" group-title="PCIA BS AS", BRAGADO TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="PCIA BS AS", POWER HD PINAMAR
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/98c300d4c9b1e3f00f1968bf4dab9f1f.png" group-title="PCIA BS AS", SEÑAL URBANA
+#EXTINF:-1 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" group-title="PCIA BS AS", SEÑAL URBANA
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288596112761397249/EQcy0Iho.jpg" group-title="PCIA BS AS", CANAL 11 MAR DE AJO
@@ -1278,8 +1275,8 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PCIA BS AS", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/517503800169345024/7vwhaz5H_400x400.jpeg" group-title="PCIA BS AS", CANAL 5 AZUL
-https://nd106.republicaservers.com:4433/hls/delpueblomedios/index.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/298510973_493693496096138_7009555848871452037_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFTXiC8Fg-aFU_lBgqO3Q573FyIGFkb_hrcXIgYWRv-Gjibt3bZ_yphN1l1aVklTrM&_nc_ohc=3rITLV_cBzEQ7kNvgG0VVcu&_nc_zt=23&_nc_ht=scontent.faep7-1.fna&_nc_gid=AXFcQm-y0yG1SZvlc9h01yI&oh=00_AYCy7JdBzCxy-6za9plVDXJXxsJoRBLy2L6xWC61dXlsCg&oe=67242147" group-title="PCIA BS AS", SALADILLO VIVO
+https://glb.bozztv.com/glb/ssh101/saladillovivo2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 MAR DEL PLATA
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
@@ -1296,17 +1293,14 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 VILLA MAZA
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/298510973_493693496096138_7009555848871452037_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFTXiC8Fg-aFU_lBgqO3Q573FyIGFkb_hrcXIgYWRv-Gjibt3bZ_yphN1l1aVklTrM&_nc_ohc=3rITLV_cBzEQ7kNvgG0VVcu&_nc_zt=23&_nc_ht=scontent.faep7-1.fna&_nc_gid=AXFcQm-y0yG1SZvlc9h01yI&oh=00_AYCy7JdBzCxy-6za9plVDXJXxsJoRBLy2L6xWC61dXlsCg&oe=67242147" group-title="PCIA BS AS", SALADILLO VIVO
-https://glb.bozztv.com/glb/ssh101/saladillovivo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/celta_tv_Argentina.jpg" group-title="PCIA BS AS", CELTA TV TRES ARROYOS
+https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", MERCEDES TV
-https://stmv5.livecastv.com/tvmercedes/tvmercedes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/517503800169345024/7vwhaz5H_400x400.jpeg" group-title="PCIA BS AS", CANAL 5 AZUL
+https://nd106.republicaservers.com:4433/hls/delpueblomedios/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="PCIA BS AS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8  
-
-#EXTINF:-1 tvg-logo="https://medpinamar.com.ar/med_contenido/uploads/2018/11/logomed-2-300x230.png" group-title="PCIA BS AS", PINAMAR MED 95.9 FM
-https://stmvideo6.livecastv.com/medpinamar/medpinamar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b2/49/b2493dd49229d3551a931d329b419cb0.jpg"  group-title="PCIA BS AS", VORTERIX MAR DEL PLATA
 https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
@@ -1344,9 +1338,6 @@ https://videostream.shockmedia.com.ar:19360/f5tv2/f5tv2.m3u8
 #EXTINF:-1 tvg-logo="https://fmcentrallincoln.com.ar/imagenes/fb.jpg" group-title="PCIA BS AS", FM CENTRAL LINCOLN
 https://videostream.shockmedia.com.ar:19360/fmcentrallincoln/fmcentrallincoln.m3u8
 
-#EXTINF:-1 tvg-logo="http://fmdelsur103.com.ar/wp-content/uploads/2021/02/cropped-WhatsApp-Image-2020-08-20-at-5.07.30-PM.jpeg" group-title="PCIA BS AS", FM DEL SUR 103.7 VERONICA
-https://inliveserver.com:1936/8562/8562/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lavozdemarchiquita.ar/wp-content/uploads/2023/06/logoradio23ok.png" group-title="PCIA BS AS", LA VOZ DE MAR CHIQUITA FM 88.1
 https://panel.host-live.com/8142/8142/playlist.m3u8
 
@@ -1377,7 +1368,11 @@ https://stmv6.voxtvhd.com.br/lineadirectaweb/lineadirectaweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/445010983_1201801821061917_31719677027419654_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHvfNwIVG5bvo8bwcjE5bGzSRbpxOKxBs9JFunE4rEGz9QYA5N5yastWnODtqeDXqI&_nc_ohc=dS-Mk_B3yycQ7kNvgHOb2GI&_nc_zt=23&_nc_ht=scontent.faep7-1.fna&_nc_gid=A5ahrVI3FlDjSEDARBSBzop&oh=00_AYBvo0_QVR_HK5fGCXplu1N3_JnViFCmPI9qqNJuucp5rw&oe=673B0F3C" group-title="PCIA BS AS", RADIO SANGRE GAUCHA NECOCHEA
 https://glb.bozztv.com/glb/ssh101/sangregaucha/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://medpinamar.com.ar/med_contenido/uploads/2018/11/logomed-2-300x230.png" group-title="PCIA BS AS", PINAMAR MED 95.9 FM
+https://stmvideo6.livecastv.com/medpinamar/medpinamar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://fmdelsur103.com.ar/wp-content/uploads/2021/02/cropped-WhatsApp-Image-2020-08-20-at-5.07.30-PM.jpeg" group-title="PCIA BS AS", FM DEL SUR 103.7 VERONICA
+https://inliveserver.com:1936/8562/8562/playlist.m3u8
 
 
 

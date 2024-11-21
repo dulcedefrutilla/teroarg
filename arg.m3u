@@ -1646,16 +1646,14 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="CORRIENTES", TELEDIEZ PASO DE LOS LIBRES
 https://videohd.live:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
+https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 
 
@@ -1813,9 +1811,6 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg" group-title="LA PAMPA", CPE TV LA PAMPA
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.corpico.com.ar/static/img/tvco-vivo.png" group-title="LA PAMPA", TVO GENERAL PICO
-https://cdn.sensa.com.ar/output/CORPICO/TVCOh/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ldmtv.com.ar/vivo.jpg" group-title="LA PAMPA", LDM TV LA PAMPA
 https://stream.arcast.host:8443/ldmtv/ldmtv/playlist.m3u8
 
@@ -1825,7 +1820,8 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXxG1UM0IwQIAkNQtr-gBEfnTOJagOgCPKnCdVpeRpGg4Smt--kI42rai2jlhB6nI6g&usqp=CAU" group-title="LA PAMPA", CADENA ENERGY (SOLO AUDIO)
 http://innovatingthenet.com.ar:8001/energyai.mp3
 
-
+#EXTINF:-1 tvg-logo="https://www.corpico.com.ar/static/img/tvco-vivo.png" group-title="LA PAMPA", TVCO GENERAL PICO
+https://cdn.sensa.com.ar/output/CORPICO/TVCOh/playlist.m3u8
 
 
 

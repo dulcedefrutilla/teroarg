@@ -1069,8 +1069,7 @@ https://ythls.armelin.one/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
 https://panel.host-live.com/8118/8118/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2023/07/logo-set-ipersonica-tv-color.png?w=1024" group-title="AMBA", IPERSONICA
-https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+
 
 
 

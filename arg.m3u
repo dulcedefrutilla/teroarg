@@ -1987,7 +1987,7 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/39058098/39058098-1695083482472-82e78fd95d4e5.jpg" group-title="NEUQUEN", RADIO 7 NEUQUEN
 https://stream.arcast.net:4443/radio7neuquen/ngrp:radio7neuquen_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8kq7xMEbEEGYNfIy0F7uRErJBGLYeMqvklJ2fSWgCpEDqbzOOrByViH6GXP09mtIAhQe=w240-h480" group-title="NEUQUEN", RTN NEUQUEN
+#EXTINF:-1 tvg-logo="https://www.rtnweb.gob.ar/wp-content/uploads/2024/08/logo-neuquen-radio.svg" group-title="NEUQUEN", RTN NEUQUEN
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5-vSRK5KLAtpTQoPAsGV3dPKFq8HDrB8hbgKAYw=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", CN 24/7 NEUQUEN 
@@ -1995,6 +1995,9 @@ https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 #EXTINF:-1 tvg-logo="https://neuquentvcanal10.com.ar/tv/wp-content/uploads/2021/07/LogoP1.fw_-300x141.png" group-title="NEUQUEN", CANAL 10 NEUQUEN
 https://stmvideo3.livecastv.com/tv10/tv10/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI9VALLE.png" group-title="NEUQUEN", CANAL 9 VALLE TV
+https://stmvideo1.livecastv.com/valletv/valletv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1078_Canal_6___Viento_Recio_Internacional.png" group-title="NEUQUEN", Canal 6 - Viento Recio 
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
@@ -2035,7 +2038,8 @@ https://5f700d5b2c46f.streamlock.net/lcrlacomuna/lcrlacomuna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YxLojGAOMKIue0OuAUxuZshBHqciVjfMr9rKxLbvXYa5NI4_vVtUiLtz7WlZ_pIVAj9UP4AFuA=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", RADIO C BARILOCHE
 https://inliveserver.com:1936/9008/9008/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://anallen.com.ar/wp-content/uploads/2022/05/AN-ALLEN.jpg" group-title="RIO NEGRO", Frecuencia AN - ALLEN
+https://5f700d5b2c46f.streamlock.net/anotador/anotador/playlist.m3u8
 
 
 
@@ -2185,8 +2189,6 @@ https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="SANTA CRUZ", RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://estudiocity.com.ar/img/logo_1675432018.png" group-title="SANTA CRUZ", ESTUDIO CITY 100.5 RIO GALLEGOS
 https://inliveserver.com:1936/12030/12030/playlist.m3u8

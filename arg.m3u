@@ -1009,7 +1009,7 @@ https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="AMBA", TVP MARCOS PAZ 19.1
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dSlppbVpzFbVYTvnohFbrdkWg4tXrS_fDWAn7IKHo-n7EXC0KTTwP74x8EMRP9DP00E=w240-h480 group-title="AMBA", LA PODEROSA TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dSlppbVpzFbVYTvnohFbrdkWg4tXrS_fDWAn7IKHo-n7EXC0KTTwP74x8EMRP9DP00E=w240-h480" group-title="AMBA", LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/poderosa/poderosa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDpW9-oUrhcoA6jqYdCOGpdLNum_mYsRuthvidnxWkbNw2s0Mnq4NNxawzhPH6eQ8jSo&usqp=CAU" group-title="AMBA", DITI TV

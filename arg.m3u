@@ -230,7 +230,7 @@ http://181.13.173.86:8000/play/a01s/index.m3u8
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
-http://190.94.186.158:8000/play/a0bq/index.m3u8
+https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CHACRA TV
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -295,7 +295,7 @@ https://ythls.armelin.one/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
 https://ythls.armelin.one/channel/UCl6L85YuyK4rVn5NI--dHUw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AtGjuO-bEPxnvAcBcrguBz2Dvg0fm7tmk3M92HQpjQdXRxI55XTX1XX_p_OF-Sme-d1J0LP8tA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Infobae - Eventos
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8H5T8b_2tIy-2HgmY2UUDHi_B_zkKQpFag&s" group-title="NOTICIAS NACIONALES", Infobae - Eventos
 https://ythls.armelin.one/channel/UCvsU0EGXN7Su7MfNqcTGNHg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)

@@ -34,8 +34,8 @@ http://181.13.173.86:8000/play/a06h/index.m3u8
 http://181.176.153.106:8090/play/a0x0/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://177.53.155.236:8000/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD (CO)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD (CO)

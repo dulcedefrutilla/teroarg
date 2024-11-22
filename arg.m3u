@@ -1045,13 +1045,13 @@ https://glb.bozztv.com/glb/ssh101/quaerearg/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1536x384.png" group-title="AMBA", CANAL 72
 https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/11/SUENOS-TV.jpg" group-title="AMBA", SUEÑOS GROUP TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTs6iKqkfPAmQJfJIT3fjY6fX6_O_XeZT2w&s" group-title="AMBA", SUEÑOS GROUP TV
 https://glb.bozztv.com/glb/ssh101/suenosgrup/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="AMBA", TEVEO DIGITAL
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://espaciofabrik.com/wp-content/uploads/2023/09/logo-gr400.png" group-title="AMBA", ESPACIO FABRIK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJdHzp2wLYBncDTew0M_zvN4CjDBr-AEuRw&s" group-title="AMBA", ESPACIO FABRIK
 https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRTY_eREkTQUEbazeoqOh0RhNNcgsag-QkBmT3lO94yy7LbvNk_lPgZtAnHryirJR6dXRV8p8Iw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Campeones TV

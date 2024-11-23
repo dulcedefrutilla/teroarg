@@ -34,8 +34,26 @@ http://181.13.173.86:8000/play/a06h/index.m3u8
 http://181.176.153.106:8090/play/a0x0/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://177.53.155.236:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", Directv Sports (ARG)
+http://1play.cool:25461/Angel1/fd377939d192/76985
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", Directv Sports HD (ARG)
+http://1play.cool:25461/Angel1/fd377939d192/62550
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", Directv Sports HD (COL)
+http://1play.cool:25461/Angel1/fd377939d192/75569
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", Directv Sports 2
+http://1play.cool:25461/Angel1/fd377939d192/156520
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports",  Directv Sports 2 HD
+http://1play.cool:25461/Angel1/fd377939d192/151374
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", Directv Sports Plus
+http://1play.cool:25461/Angel1/fd377939d192/29930
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", Directv Sports Plus HD
+http://1play.cool:25461/Angel1/fd377939d192/62552
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD (CO)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD (CO)

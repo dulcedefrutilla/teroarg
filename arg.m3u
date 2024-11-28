@@ -947,6 +947,13 @@ https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="AMBA", PROVINCIAL TV
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
@@ -994,6 +1001,10 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
 https://tv.portalexpress.es:3017/live/adminxlevellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://perfectospekadores.com.ar/images/foto/6744c68a67c9f.webp" group-title="AMBA", Perfectos Pekadores
+https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8

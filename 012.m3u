@@ -1,13 +1,18 @@
-
 #EXTM3U
 #EXTINF:-1,A&E
 http://45.5.151.151:8000/play/a0hy/index.m3u8
 #EXTINF:-1,ABE Educativo
 http://45.5.151.151:8000/play/a0nu/index.m3u8
+#EXTINF:-1,AM Sports
+http://45.5.151.151:8000/play/a0po/index.m3u8
 #EXTINF:-1,Abya Yala Tv
 http://45.5.151.151:8000/play/a0nr/index.m3u8
 #EXTINF:-1,Agenda Minera
 http://45.5.151.151:8000/play/a0nj/index.m3u8
+#EXTINF:-1,America TV HD
+http://45.5.151.151:8000/play/a0c7/index.m3u8
+#EXTINF:-1,Ayni TV
+http://45.5.151.151:8000/play/a0r3/index.m3u8
 #EXTINF:-1,Azcorazon
 http://45.5.151.151:8000/play/a0jv/index.m3u8
 #EXTINF:-1,BBC News
@@ -26,8 +31,6 @@ http://45.5.151.151:8000/play/a0n8/index.m3u8
 http://45.5.151.151:8000/play/a0qa/index.m3u8
 #EXTINF:-1,Cartoonito
 http://45.5.151.151:8000/play/a0pe/index.m3u8
-#EXTINF:-1,Cinerama TV
-http://45.5.151.151:8000/play/a0nn/index.m3u8
 #EXTINF:-1,DHE
 http://45.5.151.151:8000/play/a0lb/index.m3u8
 #EXTINF:-1,DTV
@@ -62,14 +65,22 @@ http://45.5.151.151:8000/play/a0pu/index.m3u8
 http://45.5.151.151:8000/play/a0pw/index.m3u8
 #EXTINF:-1,F 10
 http://45.5.151.151:8000/play/a0n7/index.m3u8
+#EXTINF:-1,FAP Tv
+http://45.5.151.151:8000/play/a0qz/index.m3u8
 #EXTINF:-1,Fox Sports
 http://45.5.151.151:8000/play/a0nw/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://45.5.151.151:8000/play/a0o1/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://45.5.151.151:8000/play/a0pn/index.m3u8
 #EXTINF:-1,Giga Vision
 http://45.5.151.151:8000/play/a0nm/index.m3u8
+#EXTINF:-1,Gogoplay Tv
+http://45.5.151.151:8000/play/a0r1/index.m3u8
 #EXTINF:-1,HBO 2
 http://45.5.151.151:8000/play/a0qq/index.m3u8
-#EXTINF:-1,HBO Family
-http://45.5.151.151:8000/play/a0q7/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://45.5.151.151:8000/play/a0qw/index.m3u8
 #EXTINF:-1,HBO Xtreme
 http://45.5.151.151:8000/play/a0qf/index.m3u8
 #EXTINF:-1,ID
@@ -78,6 +89,8 @@ http://45.5.151.151:8000/play/a0o7/index.m3u8
 http://45.5.151.151:8000/play/a0lk/index.m3u8
 #EXTINF:-1,La voz de Maria
 http://45.5.151.151:8000/play/a0oq/index.m3u8
+#EXTINF:-1,Lifetime
+http://45.5.151.151:8000/play/a0q6/index.m3u8
 #EXTINF:-1,MTV
 http://45.5.151.151:8000/play/a0lj/index.m3u8
 #EXTINF:-1,MTV×00
@@ -90,10 +103,10 @@ http://45.5.151.151:8000/play/a0q9/index.m3u8
 http://45.5.151.151:8000/play/a0q0/index.m3u8
 #EXTINF:-1,PAT
 http://45.5.151.151:8000/play/a0ng/index.m3u8
-#EXTINF:-1,Palenque Tv
-http://45.5.151.151:8000/play/a0nc/index.m3u8
 #EXTINF:-1,Plus Tlt Tarija
 http://45.5.151.151:8000/play/a0na/index.m3u8
+#EXTINF:-1,RA Television
+http://45.5.151.151:8000/play/a0r4/index.m3u8
 #EXTINF:-1,RED SIGLO XXI - Tv
 http://45.5.151.151:8000/play/a0ne/index.m3u8
 #EXTINF:-1,RT en Espaæol
@@ -112,14 +125,22 @@ http://45.5.151.151:8000/play/a0nh/index.m3u8
 http://45.5.151.151:8000/play/a0nz/index.m3u8
 #EXTINF:-1,TNT Sports HD
 http://45.5.151.151:8000/play/a0pm/index.m3u8
+#EXTINF:-1,TV Publica
+http://45.5.151.151:8000/play/a0ny/index.m3u8
 #EXTINF:-1,TVE
 http://45.5.151.151:8000/play/a0on/index.m3u8
 #EXTINF:-1,TVU PANDO
 http://45.5.151.151:8000/play/a0n9/index.m3u8
 #EXTINF:-1,TVU SUCRE UNIVERSIDAD SAN FRANCISCO XAVIER
 http://45.5.151.151:8000/play/a0nb/index.m3u8
+#EXTINF:-1,Tele Estrella 2
+http://45.5.151.151:8000/play/a0qx/index.m3u8
 #EXTINF:-1,Tele Estrella HD
 http://45.5.151.151:8000/play/a0n6/index.m3u8
+#EXTINF:-1,Tele6 Internacional
+http://45.5.151.151:8000/play/a0qy/index.m3u8
+#EXTINF:-1,Telefe HD
+http://45.5.151.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1,Tv Nuevo Tiempo
 http://45.5.151.151:8000/play/a0nt/index.m3u8
 #EXTINF:-1,TyC Sports HD
@@ -128,5 +149,7 @@ http://45.5.151.151:8000/play/a0eo/index.m3u8
 http://45.5.151.151:8000/play/a0nd/index.m3u8
 #EXTINF:-1,ciudad magazine
 http://45.5.151.151:8000/play/a0pz/index.m3u8
+#EXTINF:-1,el nueve HD
+http://45.5.151.151:8000/play/a0ll/index.m3u8
 #EXTINF:-1,el trece HD
 http://45.5.151.151:8000/play/a0cp/index.m3u8

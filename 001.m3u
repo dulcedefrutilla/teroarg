@@ -1,5 +1,5 @@
 #EXTM3U
-##EXTINF:-1 tvg-id="d0e545542423158de046ac6f6d026048",26TV
+#EXTINF:-1 tvg-id="d0e545542423158de046ac6f6d026048",26TV
 http://45.172.16.186:9981/stream/channelid/1413866960?profile=pass
 #EXTINF:-1 tvg-id="d1e4a200ac119dff32e41c50db644bcd",A&E
 http://45.172.16.186:9981/stream/channelid/10675409?profile=pass

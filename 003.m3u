@@ -63,6 +63,8 @@ http://201.217.246.177:8000/play/a02r/index.m3u8
 http://201.217.246.177:8000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="-",E! Entertainment
 http://201.217.246.177:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",EL FOLKLORICO TV
+http://201.217.246.177:8000/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE
 http://201.217.246.177:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
@@ -119,6 +121,8 @@ http://201.217.246.177:8000/play/a02j/index.m3u8
 http://201.217.246.177:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="-",History 2
 http://201.217.246.177:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="-",History Channel
+http://201.217.246.177:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="-",LAPACHO
 http://201.217.246.177:8000/play/a09u/index.m3u8
 #EXTINF:-1 group-title="-",La Nacion TV
@@ -181,6 +185,8 @@ http://201.217.246.177:8000/play/a07e/index.m3u8
 http://201.217.246.177:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="-",TV Publica HD
 http://201.217.246.177:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="-",TVE
+http://201.217.246.177:8000/play/a072/index.m3u8
 #EXTINF:-1 group-title="-",Telefe HD
 http://201.217.246.177:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",The History Channel HD
